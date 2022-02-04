@@ -1,6 +1,6 @@
 # papersNIT
-New Information Technologies 
-
+**New Information Technologies 
+**
 
 nitpgppng.png<img width="1275" alt="изображение" src="https://user-images.githubusercontent.com/71390027/152506528-ba045b09-8aa5-45ce-a158-e9bec5804d66.png">
 
