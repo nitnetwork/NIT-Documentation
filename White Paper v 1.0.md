@@ -109,7 +109,9 @@ The Truth machine function module has 3 basic functions:
 
 ![NIT](https://github.com/nitnetwork/papers/blob/main/img/NIT_UI.png "New Information Technologies")
 
-__WRITE__
+---
+
+### WRITE
 
 The library was taken for the recording system blockchaindata-lib
 github.com/3s3s/blockchaindata-lib. 
