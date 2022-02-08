@@ -399,7 +399,7 @@ does not provide the token holder with any ownership or other interest in the co
 ---
 ## Team
 
-@github.com/tetakta
+@github/tetakta
 
 ![NIT](https://github.com/nitnetwork/papers/blob/main/img/NIT_team.png "New Information Technologies")
 
