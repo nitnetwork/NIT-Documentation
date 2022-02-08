@@ -161,7 +161,7 @@ It took 0.00058288 BTC to record two files
 
 After that you can read the file and display its content in the console or redirect the output to another file
 
-
+```
 'use strict';
  
 const blockchaindata = require('blockchaindata-lib');
@@ -186,11 +186,9 @@ async function read()
 }
 
 read();
+```
 
-
-Description
-
-
+__Description__
 
 
 Details:
@@ -238,6 +236,12 @@ read coinbase text/ py lib
 Description | Flow 
 
 Details:
+| UI       | Description                | Action |
+| ------------- |:------------------:| -----:|
+| столбец 3     | выровнен вправо    | $1600 |
+| столбец 2     | выровнен по центру |   $12 |
+| зебра-строки  | прикольные         |    $1 |
+
 
 UI
 Description
