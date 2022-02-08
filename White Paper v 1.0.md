@@ -2,13 +2,13 @@
 
 ![NIT](https://github.com/nitnetwork/papers/blob/main/img/nitpgp.png "New Information Technologies")
 
-@tetakta, @web3nit
+_@tetakta, @web3nit_
  
 11 november 2021 (v1.0)
 
-Abstract
+## Abstract
 
-VISION 👾
+__VISION__ 👾
 
 We are witnessing the beginning of a new stage in the development of life.
 A new, technological and decentralized world is emerging 
