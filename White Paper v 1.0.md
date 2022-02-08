@@ -190,6 +190,9 @@ read();
 
 __Description__
 
+
+![NIT](https://github.com/nitnetwork/papers/blob/main/img/NIT_UIwrite.png "New Information Technologies")
+
 | Description        | Action|
 |:------------------:| -----:|
 | Blockchain selection buttons for recording | [functionality is oriented to the selected ecosystem] |
