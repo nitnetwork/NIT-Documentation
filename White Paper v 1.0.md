@@ -28,7 +28,7 @@ user search is more useful and convenient with semantic web
  
 Our mission is to make web3 technologies understandable, convenient and accessible
 
-
+---
 
 
 
