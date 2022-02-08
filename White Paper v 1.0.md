@@ -398,6 +398,9 @@ is not a loan to the company, the issuer or any of its affiliates, is not intend
 does not provide the token holder with any ownership or other interest in the company, the issuer or any of its affiliates.
 ---
 ## Team
+
+@github.com/tetakta
+
 ![NIT](https://github.com/nitnetwork/papers/blob/main/img/NIT_team.png "New Information Technologies")
 
 
