@@ -30,7 +30,6 @@ __Our mission is to make web3 technologies understandable, convenient and access
 __Table of Contents__
 
 1. Abstract
-2. <https://github.com/nitnetwork/papers/blob/main/White%20Paper%20v%201.0.md#abstract#<Abstract>
 3. Intro
 4. Market overview and NfX
 5. Roadmap
@@ -129,6 +128,7 @@ https://www.npmjs.com/package/blockchaindata-lib
 
 Write code in Node.js to write text into a blockchain that will read data from a text file
 
+'''
 'use strict';
  
 const blockchaindata = require('blockchaindata-lib');
@@ -150,6 +150,7 @@ async function write()
 }
 
 write()
+'''
 
 Maximum file size ~65 Kilobytes
 
