@@ -232,7 +232,7 @@ Description | Flow
 Details:
 
 | Description   | Action |
-| ------------- |:------------------:| -----:|
+| ------------- |:------------------:|
 | The user chooses the blockchain to write to. Bitcoin or Ethereum | [when selecting a blockchain, the system changes functionality towards the selected ecosystem] |
 | Blockchain Navigation. Sequential | [explorer moves between blocks sequentially when clicked] |
 | Keyword search filter (in records)Keyword search filter (in records) | [when explorer is pressed, filter blocks by keyword. reset only when filter is canceled] |
