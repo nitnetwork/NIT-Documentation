@@ -262,15 +262,16 @@ __INFO__
 
 ## Economy
 
-Overview
-NIT is an ERC-20 token that is a key to NIT Protocol features. The native utility token of the NIT Network (NIT Token) is used to pay fees for operations (transactions) in the NIT ecosystem. NIT Token is divided up till 0.00000001 and will be issued as erc-20 standard compliant tokens on the Ethereum blockchain, in the next stages it may be driven by our own unique technology.
+__Overview__
+__NIT is an ERC-20 token that is a key to NIT Protocol features. The native utility token of the NIT Network (NIT Token) is used to pay fees for operations (transactions) in the NIT ecosystem.__
+NIT Token is divided up till 0.00000001 and will be issued as erc-20 standard compliant tokens on the Ethereum blockchain, in the next stages it may be driven by our own unique technology.
 We need to provide the economic incentives to encourage participants to contribute and maintain the ecosystem. Computational,economic and human resources are required to maintain the NIT Network, thus providers of these resources would be rewarded with NIT tokens (i.e. "economic mining"). 
 
 NIT aims to use a potential of equilibrium model for circulating supply. 
 
 In near future staking validators and delegators will secure the network by staking their NIT in smart contracts, which are used to support the network(achieve consensus and other contributions).
 
-For each transaction in a system equivalent 1$ NIT fee is paid which goes to next pools:
+__For each transaction in a system equivalent 1$ NIT fee is paid which goes to next pools:__
 
 - Contributors community  65 %
 - Miners                  15 %
@@ -278,56 +279,42 @@ For each transaction in a system equivalent 1$ NIT fee is paid which goes to nex
 - Treasury                10 %
 
 
- Usage
+ __Usage__
 
+1. Transaction fees on the NIT Protocol: Token can be used to pay for transactions and operations, and users also receive a discount for doing so
+2. NIT Token is a utility token which functions as the unit of payment and settlement between participants in the NIT ecosystem 
+3. Trading: NIT Token can be traded for other cryptocurrencies on various exchanges
+4. Loans and transfers: NIT can be used as collateral for loans on certain platforms
 
-Transaction fees on the NIT Protocol: Token can be used to pay for transactions and operations, and users also receive a discount for doing so
+__Allocation__
 
-
-NIT Token is a utility token which functions as the unit of payment and settlement between participants in the NIT ecosystem 
-
-
-Trading: NIT Token can be traded for other cryptocurrencies on various exchanges
-Loans and transfers: NIT can be used as collateral for loans on certain platforms
-Allocation
 One billion NIT tokens will be minted at genesis and will become accessible over the course of 10 years. Every year 10% of tokens with a two year lock are distributed.  
 
 The initial 10 year allocation of NIT Token is as follows:
 
 - 65.00% to contributors community 650,000,000 (founders,core team,individuals and groups,community initiatives, airdrops, hundreds of Discord and Telegram users)
-
 - 15.00% to miners 150,000,000 (hybrid mining,liquidity providers)
-
 - 10.00% to DAO 100,000,000 (community will choose different individuals or organizations with hybrid vesting who will be responsible for effective maintenance of the NIT ecosystem)
-
 - 10.00% to treasury 100,000,000 (ecosystem insurance)
 
 
 At genesis year 10% NIT tokens will be distributed with a two year lock as following:
 
 - Founders 20,000,000 NIT 
-
 - Individuals and groups 20,000,000 NIT 
-
 - Liquidity providers 15,000,000 NIT (based on snapshot ending January 3, 2023, at 12:00 am UTC)
-
 - Core Team 10,000,000 NIT 
-
 - Developers 10,000,000 NIT
-
 - DAO 10,000,000 NIT
-
 - Treasury 10,000,000 NIT 
-
 - Holders Airdrops 2 500 000,00 NIT  (based on snapshot ending January 3, 2024, at 12:00 am UTC)
-
 - Telegram and Discord users 2 500 000,00 NIT 
 
 For the airdrop all you need to do is to have 100 NIT Token on your balance.
 
 Contributor’s community pool will retain 65% [650,000,000 NIT] of token supply to distribute on an ongoing basis through grants and other programs aimed to develop and expand NIT ecosystem. 
 
-See table for token allocation schedule:  https://docs.google.com/spreadsheets/d/1Puvlw3n1jc9aWaP-QrEcgEkKguzSHvMWoQgB8jLobAE/ 
+See table for token allocation schedule: https://docs.google.com/spreadsheets/d/1Puvlw3n1jc9aWaP-QrEcgEkKguzSHvMWoQgB8jLobAE/ 
 
 Every half a year from 2024 (start of a profit period) NIT Network will use 10% of its profits to buyback and lock NIT Tokens. We will continue to perform buybacks until 300 000 000 million tokens – 30% of the total supply will be locked.
 
@@ -350,27 +337,29 @@ NIT holders will have abilities and ownership of:
 
 Initial governance parameters are as follows: 
 
-50% of NIT total supply to reach quorum
+  50% of NIT total supply to reach quorum
 
-25% +1 of NIT total supply required to vote 'yes' for proposal to pass
+  25% +1 of NIT total supply required to vote 'yes' for proposal to pass
 
-30 day voting period 
+  30 day voting period 
 
-7 day timelock delay on execution
+  7 day timelock delay on execution
 
 
 We have established an entity called The NIT For People in the USA to legally represent the DAO, e.g. fulfill any tax obligations. The articles of incorporation give token holders the right to appoint and dismiss directors, and to instruct entity to take real-world actions.
-NIT Digital Statute
+
+__NIT Digital Statute__
+
 As part of the governance process, NIT holders will hold genesis voting on a proposed NIT Digital Statute which is a set of rules and guidelines for the NIT community on how NIT should be governed. To pass, it’ll need 25% +1 approval and a quorum of 50% of all total tokens. Vote proposals will be open on September 1, 2022 and voting will start 03.01.2027 . Users will be encouraged to delegate their voting power to a community member that represents their views (call for delegates).
 
-To become an early contributor you can claim a unique NIT NFT which will allow you to receive 1000 NIT and special DAO privileges (private channels,early delegates). 
+__To become an early contributor you can claim a unique NIT NFT which will allow you to receive 1000 NIT and special DAO privileges (private channels,early delegates).__
 
 
-**Contracts**
-NIT Token: https://etherscan.io/token/0x 
-Liquidity mining:https://etherscan.io/token/0x 
-Governance: https://etherscan.io/address/0x
-Timelock: https://etherscan.io/address/0x 
+__Contracts__
+- NIT Token: https://etherscan.io/token/0x 
+- Liquidity mining:https://etherscan.io/token/0x 
+- Governance: https://etherscan.io/address/0x
+- Timelock: https://etherscan.io/address/0x 
 
 __Legal__
 This document  is an integral part of the General Legal Terms (available by the link: https://nit.network/legal), legal provisions of which (including, but not limited - responsibilities, risks, guarantees) are completely applicable to this document.
