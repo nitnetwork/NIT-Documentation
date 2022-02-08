@@ -57,10 +57,10 @@ __NIT PROTOCOL__ -
 is a core framework for data search, communication and execution in web3 systems
 
 The NIT protocol and services are:
--Truth machine - Bitcoin and Ethereum blockchain recording and encoding
--Smart Contract Builder - creation, verification, automation on Bitcoin and Ethereum blockchain
--DAO Builder - algorithmic company, decision making, cryptoeconomics on Bitcoin and Ethereum blockchain
-B-TC-ETH bridge
+- Truth machine - Bitcoin and Ethereum blockchain recording and encoding
+- Smart Contract Builder - creation, verification, automation on Bitcoin and Ethereum blockchain
+- DAO Builder - algorithmic company, decision making, cryptoeconomics on Bitcoin and Ethereum blockchain
+- BTC-ETH bridge
 
 NIT is also:
 Blockchain Technology Research and Development Center
