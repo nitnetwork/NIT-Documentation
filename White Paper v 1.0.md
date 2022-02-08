@@ -190,11 +190,14 @@ read();
 
 __Description__
 
-| UI            | Description        | Action|
-| ------------- |:------------------:| -----:|
-| | выровнен вправо    | $1600 |
-| столбец 2     | выровнен по центру |   $12 |
-| зебра-строки  | прикольные         |    $1 |
+| Description        | Action|
+|:------------------:| -----:|
+| Blockchain selection buttons for recording | [functionality is oriented to the selected ecosystem] |
+| Author data block. Name, wallet, tag/keyword, signature (+signature download button) | [text input fields. pressing the button opens a standard file downloader] |
+| File upload module. The file is uploaded to IPFS and its ipfsID is assigned to the given blockchain record | [pressing the button opens the standard file downloader] |
+| The text entry field of the record. The number of characters is limited to 20 thousand. | [the character count works when you type]
+|
+| Transaction weight and commission counter, consent check (consent that the data will be irrevocably written to the blockchain), "write" button | [with the consent checkbox selected, pressing the button records, the transaction becomes a queue] |
 
 Details:
 UI
