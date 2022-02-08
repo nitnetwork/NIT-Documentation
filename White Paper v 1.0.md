@@ -413,14 +413,15 @@ does not provide the token holder with any ownership or other interest in the co
 
 
 The time has come to New Information Technology
+
 With them, humanity can build a civilization that is strong, free in mind and spirit, and filled with sense and love! 
 
 
 
 Create meanings as root causes
+
 Generate love as an energy of power
-Be honest,
-(because truth now has a place to be written down)
+Be honest(because truth now has a place to be written down)
 
 __Be free ...__
 
