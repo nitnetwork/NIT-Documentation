@@ -366,7 +366,7 @@ As part of the governance process, NIT holders will hold genesis voting on a pro
 To become an early contributor you can claim a unique NIT NFT which will allow you to receive 1000 NIT and special DAO privileges (private channels,early delegates). 
 
 
-Contracts
+**Contracts**
 NIT Token: https://etherscan.io/token/0x 
 Liquidity mining:https://etherscan.io/token/0x 
 Governance: https://etherscan.io/address/0x
@@ -374,27 +374,22 @@ Timelock: https://etherscan.io/address/0x
 
 __Legal__
 This document  is an integral part of the General Legal Terms (available by the link: https://nit.network/legal), legal provisions of which (including, but not limited - responsibilities, risks, guarantees) are completely applicable to this document.
+
 By reading, downloading or opening this document you automatically and totally agree to comply with all the provisions of the General Legal Terms (available by the link: https://nit.network/legal) and in such a way you confirm that we have no responsibility for the provided information (including, but not limited with this document, General Legal Terms, information placed on the website https://nit.network ) and you have no objections to us (and won’t have it in the future). The document is intended only for the information purposes.
+
 Nothing mentioned in the current document is a proposal of any kind (including tender offer for investments), legal request or application about a purchase or sale of any securities in any jurisdiction within NIT or any other system of the related company. The information provided here is not a proposal, legal request or application of NIT tokens in any jurisdiction within NIT or in any jurisdiction where such a proposal, requirement or sale would be illegal. Some allegations and assessments, which are contained in the current document, represent projected statements or information. These projected statements are related to the known and unknown risks and uncertainty, which can appear significantly different from factual developments or results, implied or expressed in such projected statements.
 NIT Token does not in any way represent any shareholding, participation, right, title, or interest in the company, the issuer, its affiliates, or any other company, enterprise or undertaking, nor will NIT Token entitle token holders to any promise of fees, dividends, revenue, profits or investment returns, and are not intended to constitute securities in Singapore or any relevant jurisdiction. Ownership of NIT Token carries no rights, express or implied, other than that which may be afforded by the NIT Network and/or any other third parties who may use such Tokens.
+
 In particular, it is highlighted that NIT Token:
-is non-refundable and cannot be exchanged for cash (or its equivalent value in any other virtual currency) or any payment obligation by the company, the issuer or any affiliate;
+
+1. is non-refundable and cannot be exchanged for cash (or its equivalent value in any other virtual currency) or any payment obligation by the company, the issuer or any affiliate;
+2. does not represent or confer on the token holder any right of any form with respect to the company, the issuer (or any of its affiliates), or its revenues or assets, including without limitation any right to receive future dividends, revenue, shares, ownership right or stake, share or security, any voting, distribution, redemption, liquidation, proprietary (including all forms of intellectual property or licence rights), or other financial or legal rights or equivalent rights, or intellectual property rights or any other form of participation in or relating to the NIT Network, the company, the issuer and/or their service providers;
+3. is not intended to represent any rights under a contract for differences or under any other contract the purpose or pretended purpose of which is to secure a profit or avoid a loss;
+4. is not intended to be a representation of money (including electronic money), security, commodity, bond, debt instrument or any other kind of financial instrument or investment;
+5. is not a loan to the company, the issuer or any of its affiliates, is not intended to represent a debt owed by the company , the issuer or any of its affiliates, and there is no expectation of profit; 
+6. and does not provide the token holder with any ownership or other interest in the company, the issuer or any of its affiliates.
 
 
-does not represent or confer on the token holder any right of any form with respect to the company, the issuer (or any of its affiliates), or its revenues or assets, including without limitation any right to receive future dividends, revenue, shares, ownership right or stake, share or security, any voting, distribution, redemption, liquidation, proprietary (including all forms of intellectual property or licence rights), or other financial or legal rights or equivalent rights, or intellectual property rights or any other form of participation in or relating to the NIT Network, the company, the issuer and/or their service providers;
-
-
-is not intended to represent any rights under a contract for differences or under any other contract the purpose or pretended purpose of which is to secure a profit or avoid a loss;
-
-
-is not intended to be a representation of money (including electronic money), security, commodity, bond, debt instrument or any other kind of financial instrument or investment;
-
-
-is not a loan to the company, the issuer or any of its affiliates, is not intended to represent a debt owed by the company , the issuer or any of its affiliates, and there is no expectation of profit; and
-
-
-does not provide the token holder with any ownership or other interest in the company, the issuer or any of its affiliates.
----
 ## Team
 
 ![NIT](https://github.com/nitnetwork/papers/blob/main/img/NIT_team.png "New Information Technologies")
