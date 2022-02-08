@@ -237,7 +237,7 @@ Details:
 | Blockchain Navigation. Sequential | [explorer moves between blocks sequentially when clicked] |
 | Keyword search filter (in records)Keyword search filter (in records) | [when explorer is pressed, filter blocks by keyword. reset only when filter is canceled] |
 | Data block. Contains transaction ID. If the record is made through B.TR/machine\ then it has another set of data such as : name, wallet, tag/keyword, key/signature   | [when you click on the transaction ID/hash, it is copied to the clipboard] |
-| Entry text.  Full text, Block information (number, extraction date, hash) "share" and "download" buttons | clicking on the button "share" opens the module share in social networks; clicking on the button "download" the entry is downloaded to your computer in .png format in a graphic template NIT] |
+| Entry text.  Full text, Block information (number, extraction date, hash) "share" and "download" buttons | [clicking on the button "share" opens the module share in social networks; clicking on the button "download" the entry is downloaded to your computer in .png format in a graphic template NIT] |
 
 
 __INFO__
