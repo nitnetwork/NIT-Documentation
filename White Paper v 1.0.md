@@ -128,7 +128,7 @@ https://www.npmjs.com/package/blockchaindata-lib
 
 Write code in Node.js to write text into a blockchain that will read data from a text file
 
-'''
+```
 'use strict';
  
 const blockchaindata = require('blockchaindata-lib');
@@ -150,7 +150,7 @@ async function write()
 }
 
 write()
-'''
+```
 
 Maximum file size ~65 Kilobytes
 
