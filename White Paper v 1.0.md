@@ -1,6 +1,6 @@
 # New Information Technologies 
 
-![NIT](/Users/bobbob/Downloads/nitpgp.png "New Information Technologies")
+![NIT](https://github.com/nitnetwork/papers/blob/main/img/nitpgp.png "New Information Technologies")
 
 @tetakta, @web3nit
  
