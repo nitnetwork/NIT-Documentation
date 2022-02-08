@@ -421,6 +421,7 @@ With them, humanity can build a civilization that is strong, free in mind and sp
 Create meanings as root causes
 
 Generate love as an energy of power
+
 Be honest(because truth now has a place to be written down)
 
 __Be free ...__
