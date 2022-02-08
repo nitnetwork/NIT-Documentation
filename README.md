@@ -1,6 +1,6 @@
 # New Information Technologies 
 
-! [Альтернативный текст](/путь/к/изображению.jpg "Подсказка")[NIT](/Users/bobbob/Downloads/nitpgp.png "New Information Technologies")
+![NIT](/Users/bobbob/Downloads/nitpgp.png "New Information Technologies")
 
 @tetakta, @web3nit
  
