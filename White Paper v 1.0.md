@@ -56,19 +56,19 @@ This will help us bring blockchain into the real world.
 __NIT PROTOCOL__ - 
 is a core framework for data search, communication and execution in web3 systems
 
-The NIT protocol and services are:
+__The NIT protocol and services are:__
 - Truth machine - Bitcoin and Ethereum blockchain recording and encoding
 - Smart Contract Builder - creation, verification, automation on Bitcoin and Ethereum blockchain
 - DAO Builder - algorithmic company, decision making, cryptoeconomics on Bitcoin and Ethereum blockchain
 - BTC-ETH bridge
 
-NIT is also:
-Blockchain Technology Research and Development Center
-Open-source library of structured information, instructions and methodologies
-Educational programs on blockchain technology
+__NIT is also:__
+- Blockchain Technology Research and Development Center
+- Open-source library of structured information, instructions and methodologies
+- Educational programs on blockchain technology
 
 
-Market overview and NfX
+## Market overview and NfX
 
 The global blockchain technology market size was valued at USD 3.67 billion in 2020. It is expected to expand at a compound annual growth rate (CAGR) of 82.4% from 2021 to 2028. Blockchain has emerged as a highly promising technology in the IT domain. It is an open, immutable, distributed public ledger that can be accessed by several parties involved in the transaction and acts as a universal depository of all transactions between the involved parties. The increasing acceptance of cryptocurrency worldwide is one of the major factors driving market growth. Commercial and central banks across the world are now using blockchain technology for payment processing and issuing of their digital currencies. The technology enables cross-border payments that are less expensive and faster as compared to traditional systems.
 
@@ -78,15 +78,15 @@ The remittance cost within the blockchain is 2% to 3% of the total amount as com
 The traditional stock exchange involves a lot of bureaucracy and stages and thereby, requires three days for processing. However, blockchain technology's decentralization nature in banking removes unnecessary intermediates and enables trade to be run on computers globally. At the same time, blockchain helps improve performance by reducing the redundancy of information in trading transactions. Various financial service providers use blockchain technology for enhancing their stock exchange processes. For instance, in January 2021, SBI Holdings, based in Japan, partnered with Sumitomo Mitsui Financial Group to launch a digital stock exchange in the country by 2022.
 The increasing global demand for digital payment systems is driving the market growth in the current days. Digital payment relies on multiple parties to process transactions, including merchant banks, retail banks, card issuers, and payments software companies, which creates the demand for blockchain technology to secure the transactions. Simultaneously, the reliability of users on trusted institutions to complete their day-to-day electronic transactions is also creating the demand for blockchain technology.
 
-NfX
+__NfX__
 Crypto changes the nature of money in a historical way, because unlike gold or paper money, crypto is a native creature of the new global network. That gives it unfair powers from the future. Unlike fiat currencies, it isn’t constrained by geography or time. Unlike fiat currencies, it’s programmable and can be improved quickly in response to market needs. Most importantly, software-money more easily amplifies the “belief” network effect that gave older forms of currency power, since today the world is more connected and shared, beliefs spread faster in higher densities.
 
 
-Roadmap
+## Roadmap
 
-Technology
+## Technology
 
-Overview
+__Overview__
 
 It is important to every being alive in this world. Today we have in our hands a reliably working, stable and secure technology for our future. It is distributed and belongs to no one, it is more accurate to say it belongs to all of us and we to it, it is our opportunity, our truth and virtue!
 Today is the time to start using blockchain widely and bring it to all of our technological attention. The Foundation of New Information Technologies was created to begin developing basic necessary, and at the same time, very simple and accessible tools* for everyone.
@@ -96,25 +96,21 @@ Special thanks to Satoshi Nakamoto and Vitalik Buterin for creating reasons to s
 
 
 
-NIT PROTOCOL SERVICES
+___NIT PROTOCOL SERVICES___
 
-Truth machine 
+__Truth machine__ 
 
 A system for bitcoin and ethereum blockchain text writing and reading, as well as verification and escrow using decentralized blockchain and IPFS technologies.
 
 The Truth machine function module has 3 basic functions:
-Recording
-Reading
-Verification
+- Recording
+- Reading
+- Verification
 
 
-
-
-WRITE
+_WRITE_
 The library was taken for the recording system blockchaindata-lib
 github.com/3s3s/blockchaindata-lib. 
-
-
 
 
 WRITING A TEXT DOCUMENT IN BITCOIN BLOCKCHAIN
