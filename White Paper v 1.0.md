@@ -192,7 +192,7 @@ __Description__
 
 | UI            | Description        | Action|
 | ------------- |:------------------:| -----:|
-| столбец 3     | выровнен вправо    | $1600 |
+| ![NIT](https://github.com/nitnetwork/papers/blob/main/img/NIT_logo.png "New Information Technologies") | выровнен вправо    | $1600 |
 | столбец 2     | выровнен по центру |   $12 |
 | зебра-строки  | прикольные         |    $1 |
 
