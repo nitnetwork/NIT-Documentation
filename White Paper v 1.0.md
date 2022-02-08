@@ -30,13 +30,14 @@ __Our mission is to make web3 technologies understandable, convenient and access
 __Table of Contents__
 
 1. Abstract
-2. Intro
-3. Market overview and NfX
-4. Roadmap
-5. Technology
-6. Economy
-7. Team
-8. To the future  . . . 
+2. <https://github.com/nitnetwork/papers/blob/main/White%20Paper%20v%201.0.md#abstract#<Abstract>
+3. Intro
+4. Market overview and NfX
+5. Roadmap
+6. Technology
+7. Economy
+8. Team
+9. To the future  . . . 
 
 ---
 
