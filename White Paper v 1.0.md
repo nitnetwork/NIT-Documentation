@@ -112,7 +112,7 @@ The Truth machine function module has 3 basic functions:
 _WRITE_
 The library was taken for the recording system blockchaindata-lib
 github.com/3s3s/blockchaindata-lib. 
-![NIT](https://github.com/nitnetwork/papers/blob/main/img/NIT_codelib1.png "New Information Technologies")
+![NIT](https://github.com/nitnetwork/papers/blob/main/img/NIT_codelib1.png "New Information Technologies" =250x250)
 
 WRITING A TEXT DOCUMENT IN BITCOIN BLOCKCHAIN
 
