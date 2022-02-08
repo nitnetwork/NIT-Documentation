@@ -16,11 +16,8 @@ A new, technological and decentralized world is emerging
 It will be fully integrated into the Internet blockchain technology. 
 Bitcoin blockchain is already the basis for this development. 
 Ethereum is also the solution by which this technology is realized. 
-
 Innovative companies and New Decentralized Companies will regularly use Bitcoin and Ethereum blockchain.
-
 NEW blockchain and WEB3 technologies have launched new Internet concepts:
-
 participants interact directly without going through a trusted intermediary 
 users have much greater control over their personal data
 internet is accessible to everyone anywhere thanks to ubiquity
@@ -99,22 +96,23 @@ Special thanks to Satoshi Nakamoto and Vitalik Buterin for creating reasons to s
 
 
 
-___NIT PROTOCOL SERVICES___
+  ___NIT PROTOCOL SERVICES___
 
 __Truth machine__ 
 
 A system for bitcoin and ethereum blockchain text writing and reading, as well as verification and escrow using decentralized blockchain and IPFS technologies.
 
 The Truth machine function module has 3 basic functions:
-- Recording
-- Reading
-- Verification
+1. Recording
+2. Reading
+3. Verification
 
+![NIT](https://github.com/nitnetwork/papers/blob/main/img/NIT_UI.png "New Information Technologies")
 
 _WRITE_
 The library was taken for the recording system blockchaindata-lib
 github.com/3s3s/blockchaindata-lib. 
-
+![NIT](https://github.com/nitnetwork/papers/blob/main/img/NIT_codelib1.png "New Information Technologies")
 
 WRITING A TEXT DOCUMENT IN BITCOIN BLOCKCHAIN
 
