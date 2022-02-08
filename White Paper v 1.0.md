@@ -32,14 +32,14 @@ __Our mission is to make web3 technologies understandable, convenient and access
 
 __Table of Contents__
 
-1.Abstract
-2.Intro
-3.Market overview and NfX
-4.Roadmap
-5.Technology
-6.Economy
-7.Team
-8.To the future  . . . 
+1. Abstract
+2. Intro
+3. Market overview and NfX
+4. Roadmap
+5. Technology
+6. Economy
+7. Team
+8. To the future  . . . 
 
 ---
 
