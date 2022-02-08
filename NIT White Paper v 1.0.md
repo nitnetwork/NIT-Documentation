@@ -194,7 +194,7 @@ __Description__
 ![NIT](https://github.com/nitnetwork/papers/blob/main/img/NIT_UIwrite.png "New Information Technologies")
 
 | Description        | Action|
-|:------------------:| -----:|
+|------------------:| -----:|
 | Blockchain selection buttons for recording | [functionality is oriented to the selected ecosystem] |
 | Author data block. Name, wallet, tag/keyword, signature (+signature download button) | [text input fields. pressing the button opens a standard file downloader] |
 | File upload module. The file is uploaded to IPFS and its ipfsID is assigned to the given blockchain record | [pressing the button opens the standard file downloader] |
