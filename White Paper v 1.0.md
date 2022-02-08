@@ -1,6 +1,6 @@
 # New Information Technologies 
 ![NIT](https://github.com/nitnetwork/papers/blob/main/img/NIT_logo.png "New Information Technologies")
-  - ![](https://github.com/nitnetwork/papers/blob/main/img/NIT_logo.png =250x250)
+![](https://github.com/nitnetwork/papers/blob/main/img/NIT_logo.png =250x250)
 ![NIT](https://github.com/nitnetwork/papers/blob/main/img/nitpgp.png "New Information Technologies")
 
 _@tetakta, @web3nit_
