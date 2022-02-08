@@ -202,83 +202,50 @@ __Description__
 |
 | Transaction weight and commission counter, consent check (consent that the data will be irrevocably written to the blockchain), "write" button | [with the consent checkbox selected, pressing the button records, the transaction becomes a queue] |
 
-Details:
-UI
-Description
-Action
-
-Blockchain selection buttons for recording
-[functionality is oriented to the selected ecosystem]
-
-Author data block. Name, wallet, tag/keyword, signature (+signature download button)
-[text input fields. pressing the button opens a standard file downloader]
-
-File upload module. The file is uploaded to IPFS and its ipfsID is assigned to the given blockchain record
-[pressing the button opens the standard file downloader]
-
-
-
-The text entry field of the record. The number of characters is limited to 20 thousand.
-[the character count works when you type]
-
-
-
-
-Transaction weight and commission counter, consent check (consent that the data will be irrevocably written to the blockchain), "write" button
-[with the consent checkbox selected, pressing the button records, the transaction becomes a queue]
-
 
 
 _READ_
+
 The following references were taken for the reading system:
-Messages from the Mines (MFTM) 
+__Messages from the Mines (MFTM__ 
 https://github.com/brangerbriz/messages-from-the-mines
 
+![NIT](https://github.com/nitnetwork/papers/blob/main/img/codeexpml.png "New Information Technologies")
+
+```
 // get an array of all of the messages from a certain block (using it's index)
 // from the mysql database. searches three tables:
 //     - coinbase_messages
 //     - address_messages
 //     - op_return_messages
-
-bitcoin-blockchain-parser https://github.com/alecalve/python-bitcoin-blockchain-parser/blob/master/examples/texts-in-coinbases.py
+```
+__bitcoin-blockchain-parser__ 
+https://github.com/alecalve/python-bitcoin-blockchain-parser/blob/master/examples/texts-in-coinbases.py
   
+![NIT](https://github.com/nitnetwork/papers/blob/main/img/codeexpmpl.png "New Information Technologies") 
+ 
 read coinbase text/ py lib
 
 Description | Flow 
 
+![NIT](https://github.com/nitnetwork/papers/blob/main/img/NIT_Uiread.png "New Information Technologies") 
+
 Details:
-| UI       | Description                | Action |
+
+| Description   | Action |
 | ------------- |:------------------:| -----:|
-| столбец 3     | выровнен вправо    | $1600 |
-| столбец 2     | выровнен по центру |   $12 |
-| зебра-строки  | прикольные         |    $1 |
-
-
-UI
-Description
-Action
-
-The user chooses the blockchain to write to. Bitcoin or Ethereum.
-[when selecting a blockchain, the system changes functionality towards the selected ecosystem]
-
-Blockchain Navigation. Sequential
-[explorer moves between blocks sequentially when clicked]
-
-Keyword search filter (in records)
-[when explorer is pressed, filter blocks by keyword. reset only when filter is canceled]
-
-Data block. Contains transaction ID. If the record is made through B.TR/machine\ then it has another set of data such as : name, wallet, tag/keyword, key/signature
-[when you click on the transaction ID/hash, it is copied to the clipboard]
-
-Entry text.  Full text, Block information (number, extraction date, hash)
+| The user chooses the blockchain to write to. Bitcoin or Ethereum | [when selecting a blockchain, the system changes functionality towards the selected ecosystem] |
+| Blockchain Navigation. Sequential | [explorer moves between blocks sequentially when clicked] |
+| Keyword search filter (in records)Keyword search filter (in records) | [when explorer is pressed, filter blocks by keyword. reset only when filter is canceled] |
+| Data block. Contains transaction ID. If the record is made through B.TR/machine\ then it has another set of data such as : name, wallet, tag/keyword, key/signature   | [when you click on the transaction ID/hash, it is copied to the clipboard] |
+| Entry text.  Full text, Block information (number, extraction date, hash)
  "share" and "download" buttons
-[clicking on the button "share" opens the module share in social networks; clicking on the button "download" the entry is downloaded to your computer in .png format in a graphic template NIT]
-
+   | clicking on the button "share" opens the module share in social networks; clicking on the button "download" the entry is downloaded to your computer in .png format in a graphic template NIT] |
 
 
 __INFO__
 
-
+![NIT](https://github.com/nitnetwork/papers/blob/main/img/NIT_uiinfo.png "New Information Technologies") 
 
 ## Economy
 
