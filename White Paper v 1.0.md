@@ -1,5 +1,5 @@
 # New Information Technologies 
-
+![NIT](https://github.com/nitnetwork/papers/blob/main/img/NIT_logo.png "New Information Technologies")
 ![NIT](https://github.com/nitnetwork/papers/blob/main/img/nitpgp.png "New Information Technologies")
 
 _@tetakta, @web3nit_
@@ -79,10 +79,13 @@ The traditional stock exchange involves a lot of bureaucracy and stages and ther
 The increasing global demand for digital payment systems is driving the market growth in the current days. Digital payment relies on multiple parties to process transactions, including merchant banks, retail banks, card issuers, and payments software companies, which creates the demand for blockchain technology to secure the transactions. Simultaneously, the reliability of users on trusted institutions to complete their day-to-day electronic transactions is also creating the demand for blockchain technology.
 
 __NfX__
+![NIT](https://github.com/nitnetwork/papers/blob/main/img/NIT_NfX_BTC.jpeg "New Information Technologies")
+
 Crypto changes the nature of money in a historical way, because unlike gold or paper money, crypto is a native creature of the new global network. That gives it unfair powers from the future. Unlike fiat currencies, it isn’t constrained by geography or time. Unlike fiat currencies, it’s programmable and can be improved quickly in response to market needs. Most importantly, software-money more easily amplifies the “belief” network effect that gave older forms of currency power, since today the world is more connected and shared, beliefs spread faster in higher densities.
 
 
 ## Roadmap
+![NIT](https://github.com/nitnetwork/papers/blob/main/img/NIT_roadmap.png "New Information Technologies")
 
 ## Technology
 
@@ -214,7 +217,7 @@ Transaction weight and commission counter, consent check (consent that the data 
 
 
 
-READ
+_READ_
 The following references were taken for the reading system:
 Messages from the Mines (MFTM) 
 https://github.com/brangerbriz/messages-from-the-mines
@@ -255,11 +258,11 @@ Entry text.  Full text, Block information (number, extraction date, hash)
 
 
 
-INFO 
+__INFO__
 
 
 
-Economy
+## Economy
 
 Overview
 NIT is an ERC-20 token that is a key to NIT Protocol features. The native utility token of the NIT Network (NIT Token) is used to pay fees for operations (transactions) in the NIT ecosystem. NIT Token is divided up till 0.00000001 and will be issued as erc-20 standard compliant tokens on the Ethereum blockchain, in the next stages it may be driven by our own unique technology.
@@ -272,11 +275,9 @@ In near future staking validators and delegators will secure the network by stak
 For each transaction in a system equivalent 1$ NIT fee is paid which goes to next pools:
 
 - Contributors community  65 %
-- Miners             15 %
-
-- DAO                10 %
-
-- Treasury          10 %
+- Miners                  15 %
+- DAO                     10 %
+- Treasury                10 %
 
 
  Usage
@@ -289,8 +290,6 @@ NIT Token is a utility token which functions as the unit of payment and settleme
 
 
 Trading: NIT Token can be traded for other cryptocurrencies on various exchanges
-
-
 Loans and transfers: NIT can be used as collateral for loans on certain platforms
 Allocation
 One billion NIT tokens will be minted at genesis and will become accessible over the course of 10 years. Every year 10% of tokens with a two year lock are distributed.  
@@ -312,20 +311,17 @@ At genesis year 10% NIT tokens will be distributed with a two year lock as follo
 
 - Individuals and groups 20,000,000 NIT 
 
-
 - Liquidity providers 15,000,000 NIT (based on snapshot ending January 3, 2023, at 12:00 am UTC)
 
 - Core Team 10,000,000 NIT 
 
 - Developers 10,000,000 NIT
 
-
 - DAO 10,000,000 NIT
 
 - Treasury 10,000,000 NIT 
 
 - Holders Airdrops 2 500 000,00 NIT  (based on snapshot ending January 3, 2024, at 12:00 am UTC)
-
 
 - Telegram and Discord users 2 500 000,00 NIT 
 
@@ -377,7 +373,8 @@ NIT Token: https://etherscan.io/token/0x
 Liquidity mining:https://etherscan.io/token/0x 
 Governance: https://etherscan.io/address/0x
 Timelock: https://etherscan.io/address/0x 
-Legal
+
+__Legal__
 This document  is an integral part of the General Legal Terms (available by the link: https://nit.network/legal), legal provisions of which (including, but not limited - responsibilities, risks, guarantees) are completely applicable to this document.
 By reading, downloading or opening this document you automatically and totally agree to comply with all the provisions of the General Legal Terms (available by the link: https://nit.network/legal) and in such a way you confirm that we have no responsibility for the provided information (including, but not limited with this document, General Legal Terms, information placed on the website https://nit.network ) and you have no objections to us (and won’t have it in the future). The document is intended only for the information purposes.
 Nothing mentioned in the current document is a proposal of any kind (including tender offer for investments), legal request or application about a purchase or sale of any securities in any jurisdiction within NIT or any other system of the related company. The information provided here is not a proposal, legal request or application of NIT tokens in any jurisdiction within NIT or in any jurisdiction where such a proposal, requirement or sale would be illegal. Some allegations and assessments, which are contained in the current document, represent projected statements or information. These projected statements are related to the known and unknown risks and uncertainty, which can appear significantly different from factual developments or results, implied or expressed in such projected statements.
@@ -399,18 +396,18 @@ is not a loan to the company, the issuer or any of its affiliates, is not intend
 
 
 does not provide the token holder with any ownership or other interest in the company, the issuer or any of its affiliates.
-
-Team
-
-
-
+---
+## Team
+![NIT](https://github.com/nitnetwork/papers/blob/main/img/NIT_team.png "New Information Technologies")
 
 
 
 
+---
 
 
-To the future  . . . 
+
+## To the future  . . . 
 
 
 
@@ -425,7 +422,9 @@ Generate love as an energy of power
 Be honest,
 (because truth now has a place to be written down)
 
-Be free ...
+__Be free ...__
 
+
+![NIT](https://github.com/nitnetwork/papers/blob/main/img/NIT_action.png "New Information Technologies")
 
 
