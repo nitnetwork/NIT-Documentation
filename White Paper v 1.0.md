@@ -1,3 +1,7 @@
+:toc: macro
+:toc-title:
+:toclevels: 99
+
 # New Information Technologies 
 ![NIT](https://github.com/nitnetwork/papers/blob/main/img/NIT_logo.png "New Information Technologies")
 ![NIT](https://github.com/nitnetwork/papers/blob/main/img/nitpgp.png "New Information Technologies")
