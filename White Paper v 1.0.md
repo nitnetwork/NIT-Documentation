@@ -26,35 +26,26 @@ users have much greater control over their personal data
 internet is accessible to everyone anywhere thanks to ubiquity
 user search is more useful and convenient with semantic web
  
-Our mission is to make web3 technologies understandable, convenient and accessible
+__Our mission is to make web3 technologies understandable, convenient and accessible__
 
 ---
 
+__Table of Contents__
 
+1.Abstract
+2.Intro
+3.Market overview and NfX
+4.Roadmap
+5.Technology
+6.Economy
+7.Team
+8.To the future  . . . 
 
+---
 
+## Intro
 
-
-
-
-
-
-
-Table of Contents
-
-Abstract
-Intro
-Market overview and NfX
-Roadmap
-Technology
-Economy
-Team
-To the future  . . . 
-
-
-Intro
-
-NIT is an international open-source community whose members and the public work together to propose solutions to problems such as complexity of search and use, lack of information, and technical interoperability of new web3 technologies.
+__NIT__ is an international open-source community whose members and the public work together to propose solutions to problems such as complexity of search and use, lack of information, and technical interoperability of new web3 technologies.
 
 Over the years, many models have been created to make the blockchain ecosystem more useful, such as layer 2, naming and aggregation systems. We are working to make these systems function as efficiently as possible.
 
@@ -62,14 +53,14 @@ Our main activities include creating standards, guidelines, interfaces for decen
 
 This will help us bring blockchain into the real world.
 
-NIT PROTOCOL - 
+__NIT PROTOCOL__ - 
 is a core framework for data search, communication and execution in web3 systems
 
 The NIT protocol and services are:
-Truth machine - Bitcoin and Ethereum blockchain recording and encoding
-Smart Contract Builder - creation, verification, automation on Bitcoin and Ethereum blockchain
-DAO Builder - algorithmic company, decision making, cryptoeconomics on Bitcoin and Ethereum blockchain
-BTC-ETH bridge
+-Truth machine - Bitcoin and Ethereum blockchain recording and encoding
+-Smart Contract Builder - creation, verification, automation on Bitcoin and Ethereum blockchain
+-DAO Builder - algorithmic company, decision making, cryptoeconomics on Bitcoin and Ethereum blockchain
+B-TC-ETH bridge
 
 NIT is also:
 Blockchain Technology Research and Development Center
