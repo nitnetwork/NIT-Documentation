@@ -64,6 +64,25 @@ __NIT is also:__
 - Open-source library of structured information, instructions and methodologies
 - Educational programs on blockchain technology
 
+__Philosophy__
+
+NEW DIGITAL ERA
+
+Philosophy of the New Internet, which includes the core values ​​and rules of the NIT.
+
+Nine principles of New Digital Era:
+
+ - Decentralization is not a crime
+ - Information is yours
+ - Cryptographic Transparency
+ - Communicate  
+ - Respect
+ - Balance
+ - Consense
+ - No central idol
+ - Openness
+
+
 
 ## Market overview and NfX
 
