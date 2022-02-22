@@ -165,7 +165,7 @@ const fs = require('fs');
 async function write()
 {
     try {
-        //Сохраняем текст в блокчейне        
+        //Saving text in the blockchain        
         const data = fs.readFileSync('2.txt', 'utf8');
         const ret1 = await blockchaindata.SaveTextToBlockchain(data);
         if (ret1.result == false) throw new Error("SaveTextToBlockchain failed, message: "+ret1.message);
