@@ -68,7 +68,6 @@ __The NIT protocol and services are:__
 - Truth machine - Bitcoin and Ethereum blockchain recording and encoding
 - Smart Contract Builder - creation, verification, automation on Bitcoin and Ethereum blockchain
 - DAO Builder - algorithmic company, decision making, cryptoeconomics on Bitcoin and Ethereum blockchain
-- BTC-ETH bridge
 
 __NIT is also:__
 - Blockchain Technology Research and Development Center
