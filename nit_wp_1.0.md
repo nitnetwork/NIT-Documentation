@@ -10,6 +10,8 @@ _@tetakta, @web3nit_
 
 __VISION__ 👾
 
+The first blockchain is 12 years old. Today, bitcoin's credibility can be measured in terms of $1 trillion and 100 million users. The trust didn't appear for nothing, but because all 13 years, bitcoin blockchain proved to be a reliable, secure, fast and convenient technology for saving and exchanging values.
+
 We are witnessing the beginning of a new stage in the development of life.
 A new, technological and decentralized world is emerging 
 
