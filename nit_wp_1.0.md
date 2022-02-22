@@ -24,14 +24,7 @@ participants interact directly without going through a trusted intermediary
 users have much greater control over their personal data
 internet is accessible to everyone anywhere thanks to ubiquity
 user search is more useful and convenient with semantic web
- 
-What challenges we face:
-Limited sources of credible standards, methodologies, and guidelines for the use and implementation of blockchain technology in the real world
-Lack of interoperability between major blockchains.
-Lack of robust tools to perform basic actions to interact with blockchain (write, read, smart contract, DAO)
-Centralization in company management
- 
-We offer a solution in the form of tools for writing and reading information in different blockchains, simple and convenient constructors for creating smart contracts and DAOs, as well as a library of standards, methodologies and instructions to all the basic knowledge of blockchain technology.
+
 What challenges we face:
  - Limited sources of credible standards, methodologies, and guidelines for the use and implementation of blockchain technology in the real world
  - Lack of interoperability between major blockchains.
