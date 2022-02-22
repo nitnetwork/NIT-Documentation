@@ -137,8 +137,6 @@ The Truth machine function module has 3 basic functions:
 2. Reading
 3. Verification
 
-![NIT](https://github.com/nitnetwork/papers/blob/main/img/NIT_UI.png "New Information Technologies")
-
 ---
 
 ### WRITE
