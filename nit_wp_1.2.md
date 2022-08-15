@@ -60,37 +60,22 @@ Our most important tasks include creating standards, libraries, interfaces, and 
 
 This will help us integrate blockchain into the real world.
 
-__NIT PROTOCOL__ - 
-is a core framework for data search, communication and execution in web3 systems
 
-__The NIT protocol and services are:__
-- Truth machine - Bitcoin and Ethereum blockchain recording and encoding
-- Smart Contract Builder - creation, verification, automation on Bitcoin and Ethereum blockchain
-- DAO Builder - algorithmic company, decision making, cryptoeconomics on Bitcoin and Ethereum blockchain
+__NIT SOLUTIONS__ - 
+is a core frameworks for data search, communication and execution in web3 systems
 
-__NIT is also:__
-- Blockchain Technology Research and Development Center
-- Open-source library of structured information, instructions and methodologies
-- Educational programs on blockchain technology
+__DAO Builder__- creating an autonomous organization with the programmable digital statute, with a decision-making system and algorithmic crypto-economy on blockchains: Bitcoin, Ethereum, NEAR (all leading and reliable blockchains in the future).
 
-__Philosophy__
+__Smart Contract Builder__ - creating contracts with different parameters and conditions, appointing participants, arbitrators, multiple signatures, and verification in blockchains.
 
-NEW DIGITAL ERA
+__Truth Machine__ - writing, reading, encryption, and certification of Bitcoin and Ethereum blockchain.
 
-Philosophy of the New Internet, which includes the core values ​​and rules of the NIT.
+Also, __NIT__ is:
+- Center of Blockchain Technology Research and Development;
+- Open library of organized information, directions, and methods;
+- Scholarly programs on the technology of blockchain.
 
-Nine principles of New Digital Era:
-
- - Decentralization is not a crime
- - Information is yours
- - Cryptographic Transparency
- - Communicate  
- - Respect
- - Balance
- - Consense
- - No central idol
- - Openness
-
+Knowledge of the technology will be accessible to everyone, and a blockchain-based and incentive-based __NIT Learning System__ will make studying easier. 
 
 
 ## Market overview and NfX
