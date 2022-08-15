@@ -1,6 +1,7 @@
 # New Information Technologies 
 
 _@tetakta, @web3nit_
+
  0ADB 3E81 3096 C891 11CB  6FF6 75A9 C361 427D 0289
 
 11 november 2021 (v1.0)
