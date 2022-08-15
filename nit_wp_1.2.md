@@ -10,31 +10,32 @@ _@tetakta, @web3nit_
 
 __VISION__ 👾
 
-The first blockchain is 12 years old. Today, bitcoin's credibility can be measured in terms of $1 trillion and 100 million users. The trust didn't appear for nothing, but because all 13 years, bitcoin blockchain proved to be a reliable, secure, fast and convenient technology for saving and exchanging values.
+Life progress has directed us to the discovery of a new decentralized world of technologies.
 
-We are witnessing the beginning of a new stage in the development of life.
-A new, technological and decentralized world is emerging 
+The world will be fully adapted to blockchain technology.
+The fundamentals of this progress are Blockchain Bitcoin and Ethereum.
+They will be often used by Innovative and New Decentralized Companies.
 
-It will be fully integrated into the Internet blockchain technology. 
-Bitcoin blockchain is already the basis for this development. 
-Ethereum is also the solution by which this technology is realized. 
-Innovative companies and New Decentralized Companies will regularly use Bitcoin and Ethereum blockchain.
-NEW blockchain and WEB3 technologies have launched new Internet concepts:
-participants interact directly without going through a trusted intermediary 
-users have much greater control over their personal data
-internet is accessible to everyone anywhere thanks to ubiquity
-user search is more useful and convenient with semantic web
+New blockchain and WEB3 technologies gave a start to such new Internet concepts:
+- Participants cooperate directly, without the participation of a reliable intermediary;
+- Users possess much more control over their personal information;
+- Anyone can use the Internet anywhere, because of its ubiquitousness;
+- The semantic web made user search more effective and beneficial.
 
-What challenges we face:
- - Limited sources of credible standards, methodologies, and guidelines for the use and implementation of blockchain technology in the real world
- - Lack of interoperability between major blockchains.
- - Lack of robust tools to perform basic actions to interact with blockchain (write, read, smart contract, DAO)
- - Centralization in company management
- 
-We offer a solution in the form of tools for writing and reading information in different blockchains, simple and convenient constructors for creating smart contracts and DAOs, as well as a library of standards, methodologies and instructions to all the basic knowledge of blockchain technology.
+The first blockchain was introduced 12 years ago. Nowadays, bitcoin credibility can be calculated at $1 trillion and 100 million of its users. The trust to the bitcoin blockchain is a result of the safe, protected, fast, and beneficial technology for the economy and trading value demonstrated during all 13 years. 
 
 
-__Our mission is to make web3 technologies understandable, convenient and accessible__
+We deal with the next difficulties:
+
+- the lack of Bitcoin ecosystem;
+- the lack of dependable, uncomplicated, and clear tools to execute essential activities of cooperation with blockchain (such as write, read, smart contract, DAO). Only Ethereum blockchain possesses projects improving such actions;
+- centralized management of the company;
+- restricted sources of trustworthy standards, methods, and rules regarding the use and implementation of blockchain technology in the real world.
+
+We propose solving as a simple and easy-to-use DAO builder with the programmable algorithmic  statute and smart contracts, tools for writing and reading data to the blockchain, and libraries of standards, techniques, and guidance for all fundamental elements of the blockchain technology.
+
+
+__Our goal is to make new technologies accessible, simple to use, and clear__
 
 ---
 
