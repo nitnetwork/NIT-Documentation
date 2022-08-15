@@ -44,8 +44,8 @@ __Table of Contents__
 1. Abstract
 3. Intro
 4. Market overview and NfX
-5. Roadmap
-6. Technology
+5. Technology
+6. Roadmap
 7. Economy
 8. Team
 9. To the future  . . . 
@@ -54,13 +54,11 @@ __Table of Contents__
 
 ## Intro
 
-__NIT__ is an international open-source community whose members and the public work together to propose solutions to problems such as complexity of search and use, lack of information, and technical interoperability of new web3 technologies.
+__NIT__ is a global open-source community whose members cooperate to improve a universal and easy-to-use DAO and smart contract builder, along with basic blockchain interaction tools. Firstly, these will be tools for writing and reading data to the Bitcoin blockchain and DAO constructor. Secondly, these tools will be joined with all major blockchains. It will be the choice of customers which technology suits them.
 
-Over the years, many models have been created to make the blockchain ecosystem more useful, such as layer 2, naming and aggregation systems. We are working to make these systems function as efficiently as possible.
+Our most important tasks include creating standards, libraries, interfaces, and instructions for decentralized systems.
 
-Our main activities include creating standards, guidelines, interfaces for decentralized systems, and integrating web3 technologies.
-
-This will help us bring blockchain into the real world.
+This will help us integrate blockchain into the real world.
 
 __NIT PROTOCOL__ - 
 is a core framework for data search, communication and execution in web3 systems
