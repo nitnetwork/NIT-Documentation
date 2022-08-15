@@ -1,9 +1,8 @@
 # New Information Technologies 
-![NIT](https://github.com/nitnetwork/papers/blob/main/img/NIT_logo.png "New Information Technologies")
-![NIT](https://github.com/nitnetwork/papers/blob/main/img/nitpgp.png "New Information Technologies")
 
 _@tetakta, @web3nit_
- 
+ 0ADB 3E81 3096 C891 11CB  6FF6 75A9 C361 427D 0289
+
 11 november 2021 (v1.0)
 
 ## Abstract
