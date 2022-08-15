@@ -94,9 +94,6 @@ __NfX__
 Crypto changes the nature of money in a historical way, because unlike gold or paper money, crypto is a native creature of the new global network. That gives it unfair powers from the future. Unlike fiat currencies, it isn’t constrained by geography or time. Unlike fiat currencies, it’s programmable and can be improved quickly in response to market needs. Most importantly, software-money more easily amplifies the “belief” network effect that gave older forms of currency power, since today the world is more connected and shared, beliefs spread faster in higher densities.
 
 
-## Roadmap
-![NIT](https://github.com/nitnetwork/papers/blob/main/img/NIT_roadmap.png "New Information Technologies")
-
 ## Technology
 
 __Overview__
@@ -254,6 +251,11 @@ Details:
 __INFO__
 
 ![NIT](https://github.com/nitnetwork/papers/blob/main/img/NIT_uiinfo.png "New Information Technologies") 
+
+
+## Roadmap
+![NIT](https://github.com/nitnetwork/papers/blob/main/img/NIT_roadmap.png "New Information Technologies")
+
 
 ## Economy
 
