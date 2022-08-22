@@ -262,7 +262,7 @@ Define multi-signature addresses.
 
 
 
-###__Truth machine__
+###__Truth machine__###
 
 From the creation of the blockchain and the popular title that Satoshi chose to record as the first permanent notice on the blockchain, Bitcoin has been operated as a platform for freedom of speech. Also, in addition to the exchange of digital currency on a global level, Bitcoin gives its users the ability to publish data that is not subject to censorship or cancellation and will be available to the world while Bitcoin exists (since one copy or node exists, maybe forever). Everyone sees the abilities and usage of Bitcoin differently. Moreover, we are predisposed to consider that the data entry can be a legitimate and cost-effective use of the blockchain.
 
