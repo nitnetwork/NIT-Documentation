@@ -283,9 +283,7 @@ The function module has 3 major tasks:
 2. Reading;
 3. Verification (in progress).
 
- 
- 
-
+  
  :key: __WRITE__
 
 Working with __tr.m NIT__:
