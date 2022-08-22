@@ -50,7 +50,6 @@ __Table of Contents__
 8. Team
 9. To the future  . . . 
 
----
 
 ## Intro
 
@@ -77,7 +76,6 @@ Also, __NIT__ is:
 
 Knowledge of the technology will be accessible to everyone, and a blockchain-based and incentive-based __NIT Learning System__ will make studying easier. 
 
----
 
 ## Market overview and NfX
 
@@ -94,7 +92,6 @@ __NfX__
 
 Crypto changes the nature of money in a historical way, because unlike gold or paper money, crypto is a native creature of the new global network. That gives it unfair powers from the future. Unlike fiat currencies, it isn’t constrained by geography or time. Unlike fiat currencies, it’s programmable and can be improved quickly in response to market needs. Most importantly, software-money more easily amplifies the “belief” network effect that gave older forms of currency power, since today the world is more connected and shared, beliefs spread faster in higher densities.
 
----
 
 ## Technology
 
@@ -194,7 +191,6 @@ It uses transactions with multiple signatures to arrange quick and almost free B
 
 Lighting Network is just one of the large variety of protocols that enables Bitcoins to be transferred off-line. The rest, including Liquid Network, and chains (side and state), are also dependable on Bitcoin's capacity to smart contracts for providing more of use cases. With the continuing expansion of Bitcoin, we will be witnessing an increasing amount of approaches to use Bitcoin, an asset or another network. Nevertheless, all these solutions will remain to be tied to the Bitcoin blockchain security, and most of them will continue to strongly count on Bitcoin's powerful scripting language.
 
----
 
 ### __NIT DAO + Smart Contract Builder__
 
@@ -263,7 +259,6 @@ Define cold time and voting quorum.
 11. Settings of multi-signature.
 Define multi-signature addresses.
 
----
 
 ### __Truth machine__
 
@@ -289,50 +284,62 @@ The function module has 3 major tasks:
 3. Verification (in progress).
 
 
+ :key: __WRITE__
 
+ Working with tr.m NIT:
 
+Library installation which is able to communicate with bitcoin-cli;
+https://www.npmjs.com/package/blockchaindata-lib;
+Code writing in Node.js to write text into a blockchain that will read information from a text file.
 
+The maximum size of the file is ~65 Kilobytes.
 
+After a succeeded write operation hash will be returned to the transaction, including our document, tightened by deflating algorithm by the zlib library.
 
-### WRITE
+It took 0.00058288 BTC to record two files
+($18 as of July 17, 2021)
 
-The library was taken for the recording system blockchaindata-lib
-github.com/3s3s/blockchaindata-lib. 
+ 
+ 
+ 
+Description
 
-![NIT](https://github.com/nitnetwork/papers/blob/main/img/NIT_codelib1.png "New Information Technologies")
+| Description        | Action|
+|------------------:| -----:|
+| Blockchain selection buttons for recording | [functionality is oriented to the selected ecosystem] |
+| Author data block. Name, wallet, tag/keyword, signature (+signature download button) | [text input fields. pressing the button opens a standard file downloader] |
+| File upload module. The file is uploaded to IPFS and its ipfsID is assigned to the given blockchain record | [pressing the button opens the standard file downloader] |
+| The text entry field of the record. The number of characters is limited to 20 thousand. | [the character count works when you type]
+| Transaction weight and commission counter, consent check (consent that the data will be irrevocably written to the blockchain), "write" button | [with the consent checkbox selected, pressing the button records, the transaction becomes a queue] | 
 
-_WRITING A TEXT DOCUMENT IN BITCOIN BLOCKCHAIN_
+Next references were picked up for the reading system:
+https://github.com/3s3s/blockchaindata-lib
 
-The article on which this paper is based:
-https://habr.com/ru/post/470884/
-
-Install a library that communicates with bitcoin-cli
-https://www.npmjs.com/package/blockchaindata-lib
-
-Write code in Node.js to write text into a blockchain that will read data from a text file
+![NIT]([https://github.com/nitnetwork/NIT-Documentation/blob/main/img/NIT%20%F0%9F%91%BE%20-%20Google%20%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8%202022-03-20%2014-34-18.png](https://github.com/nitnetwork/NIT-Documentation/blob/main/UIUX/TRUTH.machine/TRUTH%20_%20WRITE.%20added%20file%20%26%20metadata.png)
 
 ```
 'use strict';
  
 const blockchaindata = require('blockchaindata-lib');
 const fs = require('fs');
-
+ 
 async function write()
 {
-    try {
-        //Saving text in the blockchain        
-        const data = fs.readFileSync('2.txt', 'utf8');
-        const ret1 = await blockchaindata.SaveTextToBlockchain(data);
-        if (ret1.result == false) throw new Error("SaveTextToBlockchain failed, message: "+ret1.message);
-
-       console.log("SaveTextToBlockchain success! txid="+ret1.txid+"\n--------------------------")
-    }
-    catch (e) {
-        console.log(e.message)
-    }
+   try {
+       //Сохраняем текст в блокчейне       
+       const data = fs.readFileSync('NIText.txt', 'utf8');
+       const ret1 = await blockchaindata.SaveTextToBlockchain(data);
+       if (ret1.result == false) throw new Error("SaveTextToBlockchain failed, message: "+ret1.message);
+ 
+      console.log("SaveTextToBlockchain success! txid="+ret1.txid+"\n--------------------------")
+   }
+   catch (e) {
+       console.log(e.message)
+   }
 }
-
+ 
 write()
+ 
 ```
 
 Maximum file size ~65 Kilobytes
@@ -345,44 +352,10 @@ It took 0.00058288 BTC to record two files
 After that you can read the file and display its content in the console or redirect the output to another file
 
 ```
-'use strict';
- 
-const blockchaindata = require('blockchaindata-lib');
 
-const hash1 = '8fa9bfbbfb4b62e31b1b52ecc1da3218ece5e8b94648971b52a864ef7a5ba64b';
-const hash2 = '557405e2e5e1919f1b3566493a478bf45400607f54a0b371a321242faaa6e437';
-
-async function read()
-{
-    try {
-        const savedObject = await blockchaindata.GetObjectFromBlockchain(hash2);
-        if (savedObject.type == 'error') throw new Error(savedObject.message)
-        
-        // if (savedObject.type == 'text')
-        console.log(Buffer.from(savedObject.base64, 'base64').toString('utf8'));
-        //else// console.log(savedObject.base64);
-
-    }
-    catch(e) {
-        console.log(e.message)
-    }
-}
-
-read();
 ```
 
-__Description__
 
-
-![NIT](https://github.com/nitnetwork/papers/blob/main/img/NIT_UIwrite.png "New Information Technologies")
-
-| Description        | Action|
-|------------------:| -----:|
-| Blockchain selection buttons for recording | [functionality is oriented to the selected ecosystem] |
-| Author data block. Name, wallet, tag/keyword, signature (+signature download button) | [text input fields. pressing the button opens a standard file downloader] |
-| File upload module. The file is uploaded to IPFS and its ipfsID is assigned to the given blockchain record | [pressing the button opens the standard file downloader] |
-| The text entry field of the record. The number of characters is limited to 20 thousand. | [the character count works when you type]
-| Transaction weight and commission counter, consent check (consent that the data will be irrevocably written to the blockchain), "write" button | [with the consent checkbox selected, pressing the button records, the transaction becomes a queue] |
 
 
 
