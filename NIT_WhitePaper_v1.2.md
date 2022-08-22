@@ -139,6 +139,28 @@ Bitcoin's language of scripting enables a diversity of smart contracts;
 such layers as Lightning Network and sidechains open more opportunities for smart contracts in Bitcoin;
 the Taproot update has enlarged the flexibility, productivity, and practicability of smart contract features for Bitcoin.
 
+:zap: A bitcoin smart contract – what is it?  
+
+It is a digital agreement that is accomplished automatically and is based on predefined criteria. For instance, a smart contract can determine that bitcoins must be automatically sent between users after a certain time delay.
+Smart contracts can be exceptionally complicated and include different conditional criteria, or they can be as elementary as requiring a digital signature to spend money.
+
+:zap: How Bitcoin Executes Smart Contracts
+
+The Bitcoin network supports a broad scope of smart contracts using its powerful scripting language which is called Script. Script allows users to determine criteria for spending their bitcoins, and bitcoin transactions tie certain amounts of bitcoins to those scripts. The user must meet these criteria to be able to spend the bitcoin tied to the script. As follows, all bitcoin transactions are smart contracts.
+The spending criteria are named scriptPubKey or blocking script. The information and script that meet the criteria are named ScriptSig or ScriptWitness, depending on the input usage of SegWit.
+
+:zap: Bitcoin script and Turing integrity
+
+Script has been effective for powering the Bitcoin network for over ten years, but it is not Turing-complete - it does not provide logical loops. This feature protects the Bitcoin network from the denial-of-service (DoS) attacks, experienced by other cryptocurrency networks.
+
+:zap: Different types of Bitcoin smart contracts
+
+Pay-to-Public-Key-Hash (P2PKH) is a very well-known type of the Bitcoin script. It allows to send bitcoins to a bitcoin address, so solely the corresponding private key owner is able to spend the bitcoin.
+On a technical level, P2PKH scripts set a strict requirement: to spend bitcoins, the user has to provide an ECDSA signature that matches with the public key whose hash is specified by the script. Since an acceptable signature can only be created by the owner of the private key that matches the hash of the public key, the bitcoin is exclusively owned by the owner of the private key.
+
+:zap: Leaders among Bitcoin Smart Contracts
+
+Pay-to-Public-Key-Hash is one of the simplest Bitcoin smart contracts, but it is the most famous because of its practicability and simplicity. Also, it is possible to use more difficult smart contracts, using the Bitcoin script, and there are many more at further levels.
 
 
 
