@@ -313,7 +313,8 @@ Description
 Next references were picked up for the reading system:
 https://github.com/3s3s/blockchaindata-lib
 
-![NIT]([https://github.com/nitnetwork/NIT-Documentation/blob/main/img/NIT%20%F0%9F%91%BE%20-%20Google%20%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8%202022-03-20%2014-34-18.png](https://github.com/nitnetwork/NIT-Documentation/blob/main/UIUX/TRUTH.machine/TRUTH%20_%20WRITE.%20added%20file%20%26%20metadata.png))
+![NIT](https://github.com/nitnetwork/papers/blob/main/img/NIT_roadmap.png "New Information Technologies")
+
 
 ```
 'use strict';
@@ -355,7 +356,8 @@ Details:
 | Data block. Contains transaction ID. If the record is made through B.TR/machine\ then it has another set of data such as : name, wallet, tag/keyword, key/signature   | [when you click on the transaction ID/hash, it is copied to the clipboard] |
 | Entry text.  Full text, Block information (number, extraction date, hash) "share" and "download" buttons | [clicking on the button "share" opens the module share in social networks; clicking on the button "download" the entry is downloaded to your computer in .png format in a graphic template NIT] |
  
-![NIT]([https://github.com/nitnetwork/papers/blob/main/img/codeexpml.png "New Information Technologies"](https://github.com/nitnetwork/NIT-Documentation/blob/main/UIUX/TRUTH.machine/TRUTH%20_%20READ.png))
+![NIT](https://github.com/nitnetwork/papers/blob/main/img/NIT_roadmap.png "New Information Technologies")
+
  
 ```
 'use strict';
@@ -385,7 +387,7 @@ read();
  
 
 ## Roadmap
-![NIT](https://github.com/nitnetwork/papers/blob/main/img/NIT_roadmap.png "New Information Technologies")
+![NIT](https://github.com/nitnetwork/NIT-Documentation/blob/main/UIUX/TRUTH.machine/TRUTH%20_%20READ.png)
 
 
 ## Economy
