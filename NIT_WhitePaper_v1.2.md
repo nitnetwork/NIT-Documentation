@@ -124,6 +124,7 @@ A Decentralized Autonomous Organization (DAO) is a new organizational form. It a
 The blockchain properties arrange unique abilities to establish
 and manage decentralized organizations, along with the records immutability, clarity, and speed of transactions.
 
+![NIT](https://github.com/nitnetwork/NIT-Documentation/blob/main/img/NIT%20WP%20v%201.1%20-%20Google%20%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B%202022-08-22%2015-52-36.png)
 
 
   ___NIT PROTOCOL SERVICES___
