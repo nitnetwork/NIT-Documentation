@@ -283,6 +283,8 @@ The function module has 3 major tasks:
 2. Reading;
 3. Verification (in progress).
 
+ 
+ 
 
  :key: __WRITE__
 
@@ -341,6 +343,9 @@ write()
 ```
 
 
+ 
+ 
+ 
 :mag_right:_READ_
 
 Then you can read the file and display its content in the console or reassign the output to a different file
