@@ -210,6 +210,66 @@ Choice of organization template:
 - a public company;
 - a private company.
 
+:white_circle: Main Information:
+Selecting organization name (DAO ID: It will be an exclusive identifier for your DAO, and will be a  part of the URL for direct access to your DAO), e.g. new_information_technologies
+
+1. Fill out the token information for community use to maintain your DAO:
+the token name or title, such as “NewInformationTechnologies”;
+token Ticker, for example, “XNIT”;
+the number of tokens to be issued.
+
+:white_circle: Configuration:
+
+2. Delay In Execution. The period while any transaction in your DAO will be accessible for the challenge by your members in advance of execution.
+
+3. Rules / Agreement.
+Your DAO has positive abilities - transactions can appear without voting, but under agreed rules. Provide a fundamental agreement for your DAO (in text or uploaded file). You can use and edit the following text as necessary, or use this template to create a more completed agreement.
+
+:white_circle: Collateral.
+Collateral is needed for setting up or disputing any transaction. XNIT is the default currency for collateral. If you want to override the default, you need to define a separate contract address or use a new DAO token.
+
+4. Set up the execution of security token:
+establish a new contract/token or choose the XDAO token;
+determine the address*(if it is a new token) (after DAO creation, the XDAO token address will be identified);
+the number of tokens.
+
+5. Collateral call token:
+establish a new contract/token or choose the XDAO token;
+determine address*(if t is a new token) (after DAO creation, the XDAO token address will be identified);
+the number of tokens.
+
+6. Whitelist addresses that can set up transactions.
+Reduce the number of addresses that can set up transactions. Note: Your DAO will be blocked if these addresses are wrong or unavailable. In case you select "Any Address", everyone will have the opportunity to set up transactions in your DAO. Please make sure that you understand the results of this choice.
+
+:white_circle: Allocation
+
+Allocation helps you automatize funds distribution between treasuries/addresses and build their specifications.
+
+7. The primary addresses of the acceptance pool.
+External/public addresses for payments accepting.
+
+8. Addresses for distribution.
+Internal/private addresses for storage and distribution.
+ 
+9. Settings of distribution.
+Define distribution addresses, voting percentage, and quorum.
+
+10. Settings of storage.
+Define cold time and voting quorum.
+
+11. Settings of multi-signature.
+Define multi-signature addresses.
+
+
+
+
+
+
+
+
+
+
+
 
   ___NIT PROTOCOL SERVICES___
 
