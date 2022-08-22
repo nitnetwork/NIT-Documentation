@@ -98,11 +98,31 @@ Crypto changes the nature of money in a historical way, because unlike gold or p
 
 __Overview__
 
-It is important to every being alive in this world. Today we have in our hands a reliably working, stable and secure technology for our future. It is distributed and belongs to no one, it is more accurate to say it belongs to all of us and we to it, it is our opportunity, our truth and virtue!
-Today is the time to start using blockchain widely and bring it to all of our technological attention. The Foundation of New Information Technologies was created to begin developing basic necessary, and at the same time, very simple and accessible tools* for everyone.
-It all began with bitcoin, and today we suggest focusing our attention on the bitcoin blockchain, it is the foundation and the beginning, it is the base layer, it is the trust machine of humanity.
+Our target is to maximize the application of blockchain technology. In this connection, all leading and trustworthy blockchains have been chosen to give users a right to choose. Currently, we are examining the primary 4 blockchains and have determined a plan to implement our DAO model and data recording (certification) step by step in each particular protocol.
 
-Special thanks to Satoshi Nakamoto and Vitalik Buterin for creating reasons to start thought on these topics
+Let’s begin with the first one - __Bitcoin__.
+
+Further we have the plan to consolidate the solution into all top and progressive blockchain technologies:
+- Ethereum;
+- Polygon;
+- Near.
+
+Bitcoin is the first blockchain, it is the most trusted and reliable. Currently, the cryptocurrency community is considering and maintaining new technologies in other blockchains mostly because they have more enhanced ecosystems, communities, guides, and samples. This makes possible to engage more developers, enthusiasts, and investors.
+
+But if we (human beings) have to move massively into the crypto-economy, use crypto every single day and establish decentralized organizations, companies, institutions, and states,
+then what technology could we trust to do it all? Bitcoin? Let's begin with it ...
+Bitcoin has proven to be a reliable, secure, quick, and comfortable technology for saving and exchanging value.
+
+Special credit to Satoshi Nakamoto and Vitalik Buterin for establishing reasons to begin thinking about these matters.
+
+In addition, we will take a detailed look at the base modules of the NIT protocol, their characterization, application, and business model.
+
+A DAO is a self-organizing community with decentralized and automatically executable administration and voting, financial administration, participation, earnings, and workflow organization functions via blockchain.
+
+A Decentralized Autonomous Organization (DAO) is a new organizational form. It allows resources to be coordinated through decentralized and provably neutral instruments. The DAO is not a complete replacement for corporations. Nevertheless, it gives an alternative for a lot of organization types that can profit from a programmable model of administration and decentralization: corporations, cooperatives, religious organizations, schools, NGOs, government agencies and departments, and local communities. [V. Buterin, 2020](6)
+
+The blockchain properties arrange unique abilities to establish
+and manage decentralized organizations, along with the records immutability, clarity, and speed of transactions.
 
 
 
