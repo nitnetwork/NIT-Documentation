@@ -162,11 +162,53 @@ On a technical level, P2PKH scripts set a strict requirement: to spend bitcoins,
 
 Pay-to-Public-Key-Hash is one of the simplest Bitcoin smart contracts, but it is the most famous because of its practicability and simplicity. Also, it is possible to use more difficult smart contracts, using the Bitcoin script, and there are many more at further levels.
 
+:zap: Multi-signature scripts
+
+Multi-signature scripts may need any number of signatures, which can belong to any number of users, while P2PKH scripts need just a single signature. They work as follows: a list of n public keys and a number m, which is less than or equivalent to n, is given. Bitcoins bound to this script may be spent just if m signatures are provided, each of them corresponding to one of the public keys which is the n listed. This design is known as an m-of-n multi-signature.
+
+One common multi-signature setting is 2-of-3 and needs two signatures from a group with three public keys. The three parties are able to keep their money together, making sure that neither party can steal the assets or prevent the majority spending them as they see fit. Multisignature 2-of-3 is used by decentralized services, for escrow with minimum trust.
+
+:zap: Time-locked bitcoin transactions
+
+The transactions may be time-locked. They are valid only after a specific period of time has passed. In addition, they can be used as the element of blockchain scripts to adjust requirements for bitcoin spending. So, a script may need three signatures to spend bitcoins before a specified time, after which just a single signature is required. This makes backups possible, perfectly preventing the funds’ loss.
+
+:zap: Pay-as-you-go scripted hash (P2SH)
+
+Arbitrarily complicated scenarios became possible because of the standard known as the Pay-to-Script-Hash (P2SH), as it was enlarged to include P2WSH as a part of the SegWit update. P2SH and P2WSH smart contracts allow the user to send bitcoins to any script hash, like any of the above examples. This design allows lowering to the minimum the cost of sending Bitcoins in a complex smart contract. Additionally, it gives more privacy until it is spent.
+
+:zap: Taproot and Bitcoin Smart Contracts
+
+The update of the Taproot's Bitcoin will announce a new script type. It is known as Pay-to-Taproot (P2TR), which will merge functions of the P2PKH and P2SH scripts allowing to send bitcoins to both public key and arbitrary scripts. Nevertheless, in contrast to P2SH and P2WSH, allowing Bitcoins sending to a single script, P2TR uses Merkelized Alternative Script Trees (MAST) to allow bitcoins to be sent to 2^128 separate arbitrary scripts. For spending bitcoins, any of these scenarios is possible to be used. The Bitcoin Taproot update creates substantial flexibility for Bitcoin users to build complex smart contracts in the Bitcoin chain. In addition, it provides expanded fulfillment and privacy for Lightning channels, which are a type of smart contract.
+
+__Smart contracts levels on top of Bitcoins__
+
+All mentioned smart contracts are executed on the Bitcoin blockchain as regular Bitcoin transactions. Nonetheless, they may be spent and used to power smart contracts on the next levels, for example, Lighting Network.
+
+:zap: Lighting Network :zap:
+
+It uses transactions with multiple signatures to arrange quick and almost free Bitcoin payments. They are known as time-locked hashed contracts (HTLCs). They enable Bitcoin payments between several participants without trust, assuring that each user assisting the payment transaction receives a small compensation.
+
+:zap: Further Bitcoin Levels.
+
+Lighting Network is just one of the large variety of protocols that enables Bitcoins to be transferred off-line. The rest, including Liquid Network, and chains (side and state), are also dependable on Bitcoin's capacity to smart contracts for providing more of use cases. With the continuing expansion of Bitcoin, we will be witnessing an increasing amount of approaches to use Bitcoin, an asset or another network. Nevertheless, all these solutions will remain to be tied to the Bitcoin blockchain security, and most of them will continue to strongly count on Bitcoin's powerful scripting language.
 
 
+__NIT DAO + Smart Contract Builder__
 
+This is a simple and easy-to-use constructor of decentralized organizations and smart contracts. The constructor includes essential and basic functions: multi-signing, voting, algorithmic spending of funds in treasuries, and capital programming.
 
+![NIT](https://github.com/nitnetwork/NIT-Documentation/blob/main/UIUX/DAO/DAO.%20Create%20DAO-2.png)
 
+NIT DAO arranges a web interface for simple organization building. All users only need to open a web page and click buttons following the instructions. The functions of building a new DAO, determining a new DAO template, storing, distributing, and withdrawing personal assets, voting in DAO, etc will be provided by the builder.
+
+In the NIT DAO Builder, you can create a digital status for your organization. The Builder defines the distribution of funds, assigns shareholders, and determines the types of decisions to be made.
+
+__Instructions for DAO building__
+
+Choice of organization template:
+- a public, nonprofit organization;
+- a public company;
+- a private company.
 
 
   ___NIT PROTOCOL SERVICES___
