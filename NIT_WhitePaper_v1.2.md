@@ -286,7 +286,7 @@ The function module has 3 major tasks:
 
  :key: __WRITE__
 
- Working with tr.m NIT:
+Working with __tr.m NIT__:
 
 Library installation which is able to communicate with bitcoin-cli;
 https://www.npmjs.com/package/blockchaindata-lib;
@@ -299,8 +299,6 @@ After a succeeded write operation hash will be returned to the transaction, incl
 It took 0.00058288 BTC to record two files
 ($18 as of July 17, 2021)
 
- 
- 
  
 Description
 
@@ -315,7 +313,7 @@ Description
 Next references were picked up for the reading system:
 https://github.com/3s3s/blockchaindata-lib
 
-![NIT]([https://github.com/nitnetwork/NIT-Documentation/blob/main/img/NIT%20%F0%9F%91%BE%20-%20Google%20%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8%202022-03-20%2014-34-18.png](https://github.com/nitnetwork/NIT-Documentation/blob/main/UIUX/TRUTH.machine/TRUTH%20_%20WRITE.%20added%20file%20%26%20metadata.png)
+![NIT]([https://github.com/nitnetwork/NIT-Documentation/blob/main/img/NIT%20%F0%9F%91%BE%20-%20Google%20%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8%202022-03-20%2014-34-18.png](https://github.com/nitnetwork/NIT-Documentation/blob/main/UIUX/TRUTH.machine/TRUTH%20_%20WRITE.%20added%20file%20%26%20metadata.png))
 
 ```
 'use strict';
@@ -342,48 +340,10 @@ write()
  
 ```
 
-Maximum file size ~65 Kilobytes
 
-After a successful write operation hash will be returned to the transaction, which contains our document, compressed using the deflate algorithm by the zlib library
+:mag_right:_READ_
 
-It took 0.00058288 BTC to record two files
-(18 dollars on 7.17.21)
-
-After that you can read the file and display its content in the console or redirect the output to another file
-
-```
-
-```
-
-
-
-
-
-_READ_
-
-The following references were taken for the reading system:
-__Messages from the Mines (MFTM__ 
-https://github.com/brangerbriz/messages-from-the-mines
-
-![NIT](https://github.com/nitnetwork/papers/blob/main/img/codeexpml.png "New Information Technologies")
-
-```
-// get an array of all of the messages from a certain block (using it's index)
-// from the mysql database. searches three tables:
-//     - coinbase_messages
-//     - address_messages
-//     - op_return_messages
-```
-__bitcoin-blockchain-parser__ 
-https://github.com/alecalve/python-bitcoin-blockchain-parser/blob/master/examples/texts-in-coinbases.py
-  
-![NIT](https://github.com/nitnetwork/papers/blob/main/img/codeexpmpl.png "New Information Technologies") 
- 
-read coinbase text/ py lib
-
-Description | Flow 
-
-![NIT](https://github.com/nitnetwork/papers/blob/main/img/NIT_Uiread.png "New Information Technologies") 
+Then you can read the file and display its content in the console or reassign the output to a different file
 
 Details:
 
@@ -394,12 +354,35 @@ Details:
 | Keyword search filter (in records)Keyword search filter (in records) | [when explorer is pressed, filter blocks by keyword. reset only when filter is canceled] |
 | Data block. Contains transaction ID. If the record is made through B.TR/machine\ then it has another set of data such as : name, wallet, tag/keyword, key/signature   | [when you click on the transaction ID/hash, it is copied to the clipboard] |
 | Entry text.  Full text, Block information (number, extraction date, hash) "share" and "download" buttons | [clicking on the button "share" opens the module share in social networks; clicking on the button "download" the entry is downloaded to your computer in .png format in a graphic template NIT] |
+ 
+![NIT]([https://github.com/nitnetwork/papers/blob/main/img/codeexpml.png "New Information Technologies"](https://github.com/nitnetwork/NIT-Documentation/blob/main/UIUX/TRUTH.machine/TRUTH%20_%20READ.png))
+ 
+```
+'use strict';
+ 
+const blockchaindata = require('blockchaindata-lib');
+ 
+ 
+async function read()
+{
+   try {
+       const savedObject = await blockchaindata.GetObjectFromBlockchain("b8f5eaca547ff94b8053ecc1d495e04b84ed0cda7ad18b77e5b4ca588021dd82");
+       if (savedObject.type == 'error') throw new Error(savedObject.message)
+      
+       // if (savedObject.type == 'text')
+       console.log(Buffer.from(savedObject.base64, 'base64').toString('utf8'));
+       //else// console.log(savedObject.base64);
+ 
+   }
+   catch(e) {
+       console.log(e.message)
+   }
+}
+ 
+read();
 
-
-__INFO__
-
-![NIT](https://github.com/nitnetwork/papers/blob/main/img/NIT_uiinfo.png "New Information Technologies") 
-
+```
+ 
 
 ## Roadmap
 ![NIT](https://github.com/nitnetwork/papers/blob/main/img/NIT_roadmap.png "New Information Technologies")
