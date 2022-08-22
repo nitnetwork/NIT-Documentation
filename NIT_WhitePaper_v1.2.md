@@ -126,6 +126,13 @@ and manage decentralized organizations, along with the records immutability, cla
 
 ![NIT](https://github.com/nitnetwork/NIT-Documentation/blob/main/img/NIT%20WP%20v%201.1%20-%20Google%20%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B%202022-08-22%2015-52-36.png)
 
+NIT DAO BTC :
+1. Bitcoin smart contracts P2PKH;
+2. Addresses which are programmable with scriptPubKey;
+3. Multi-signature m-of-n for making the decision. 
+
+![NIT](https://github.com/nitnetwork/NIT-Documentation/blob/main/img/NIT%20%F0%9F%91%BE%20-%20Google%20%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8%202022-03-20%2014-34-18.png)
+
 
   ___NIT PROTOCOL SERVICES___
 
