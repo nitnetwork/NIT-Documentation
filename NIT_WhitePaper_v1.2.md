@@ -77,6 +77,7 @@ Also, __NIT__ is:
 
 Knowledge of the technology will be accessible to everyone, and a blockchain-based and incentive-based __NIT Learning System__ will make studying easier. 
 
+---
 
 ## Market overview and NfX
 
@@ -93,6 +94,7 @@ __NfX__
 
 Crypto changes the nature of money in a historical way, because unlike gold or paper money, crypto is a native creature of the new global network. That gives it unfair powers from the future. Unlike fiat currencies, it isn’t constrained by geography or time. Unlike fiat currencies, it’s programmable and can be improved quickly in response to market needs. Most importantly, software-money more easily amplifies the “belief” network effect that gave older forms of currency power, since today the world is more connected and shared, beliefs spread faster in higher densities.
 
+---
 
 ## Technology
 
@@ -192,6 +194,7 @@ It uses transactions with multiple signatures to arrange quick and almost free B
 
 Lighting Network is just one of the large variety of protocols that enables Bitcoins to be transferred off-line. The rest, including Liquid Network, and chains (side and state), are also dependable on Bitcoin's capacity to smart contracts for providing more of use cases. With the continuing expansion of Bitcoin, we will be witnessing an increasing amount of approaches to use Bitcoin, an asset or another network. Nevertheless, all these solutions will remain to be tied to the Bitcoin blockchain security, and most of them will continue to strongly count on Bitcoin's powerful scripting language.
 
+---
 
 ### __NIT DAO + Smart Contract Builder__
 
@@ -260,7 +263,7 @@ Define cold time and voting quorum.
 11. Settings of multi-signature.
 Define multi-signature addresses.
 
-
+---
 
 ### __Truth machine__
 
@@ -290,19 +293,6 @@ The function module has 3 major tasks:
 
 
 
-
-  ___NIT PROTOCOL SERVICES___
-
-__Truth machine__ 
-
-A system for bitcoin and ethereum blockchain text writing and reading, as well as verification and escrow using decentralized blockchain and IPFS technologies.
-
-The Truth machine function module has 3 basic functions:
-1. Recording
-2. Reading
-3. Verification
-
----
 
 ### WRITE
 
