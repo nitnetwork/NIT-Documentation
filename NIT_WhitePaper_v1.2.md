@@ -196,7 +196,7 @@ Lighting Network is just one of the large variety of protocols that enables Bitc
 
 This is a simple and easy-to-use constructor of decentralized organizations and smart contracts. The constructor includes essential and basic functions: multi-signing, voting, algorithmic spending of funds in treasuries, and capital programming.
 
-![NIT](https://github.com/nitnetwork/NIT-Documentation/blob/main/UIUX/DAO/DAO.%20Create%20DAO-2.png)
+![NIT](https://github.com/nitnetwork/NIT-Documentation/blob/main/UIUX/DAO/DAO.%20Treasury.png)
 
 NIT DAO arranges a web interface for simple organization building. All users only need to open a web page and click buttons following the instructions. The functions of building a new DAO, determining a new DAO template, storing, distributing, and withdrawing personal assets, voting in DAO, etc will be provided by the builder.
 
