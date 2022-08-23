@@ -404,13 +404,14 @@ In the nearest future staking validators and delegators will secure the network 
 For every single transaction within a system (deploying of DAO, smart contracts, NFT certificates), a $2 fee will be paid to DAO Treasury. Thereafter the amount of the fee will be set by NIT DAO.
 
 
-
- __Usage__
-
-1. Transaction fees on the NIT Protocol: Token can be used to pay for transactions and operations, and users also receive a discount for doing so
-2. NIT Token is a utility token which functions as the unit of payment and settlement between participants in the NIT ecosystem 
-3. Trading: NIT Token can be traded for other cryptocurrencies on various exchanges
-4. Loans and transfers: NIT can be used as collateral for loans on certain platforms
+__The Usage Of The NIT Token__:
+ 
+1. Transaction fees on the NIT Protocol: Tokens can be used for transactions payments and operations, especially creating DAOs, smart contracts, encoding and decoding data into blockchains - creating NFT Certificates. In addition, users will get a discount for paying fees with NIT tokens;
+2. NIT Token is a utility token that plays the role of the unit of payment and settlement between parties within the NIT ecosystem; 
+3. Trading: NIT Token can be exchanged for other types of cryptocurrencies on different trades;
+4. Loans and transfers: NIT can be used as collateral for loans on particular platforms;
+5. Staking: NIT can be staked creating the opportunity for holders to get passive earnings;
+6. NIT token will also be used in the Hinks Gold ecosystem, read more about it. 
 
 __Allocation__
 
