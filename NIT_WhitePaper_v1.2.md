@@ -525,12 +525,15 @@ In particular, it is highlighted that NIT Token:
 
 
 The time has come to New Information Technology
+ 
 With their help, people can build a strong civilization, with a free mind and spirit, full of sense and love! 
  
 
 
 Establish meanings as root causes
+ 
 Produce love as energy of power
+ 
 Be truthful,(since truth now has a place to be written)
 
 
