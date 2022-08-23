@@ -511,7 +511,7 @@ In particular, it is highlighted that NIT Token:
 
 ## Team
 
-![NIT](https://github.com/nitnetwork/NIT-Documentation/blob/main/img/NIT%20%F0%9F%91%BE%20TEAM.png)
+![NIT](https://github.com/nitnetwork/NIT-Documentation/blob/main/img/NIT%20-%20team.png)
 
 
 
