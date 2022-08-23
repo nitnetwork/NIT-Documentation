@@ -415,101 +415,123 @@ __The Usage Of The NIT Token__:
 
 __Allocation__
 
-One billion NIT tokens will be minted at genesis and will become accessible over the course of 10 years. Every year 10% of tokens with a two year lock are distributed.  
-
-The initial 10 year allocation of NIT Token is as follows:
-
-- 65.00% to contributors community 650,000,000 (founders,core team,individuals and groups,community initiatives, airdrops, hundreds of Discord and Telegram users)
-- 15.00% to miners 150,000,000 (hybrid mining,liquidity providers)
-- 10.00% to DAO 100,000,000 (community will choose different individuals or organizations with hybrid vesting who will be responsible for effective maintenance of the NIT ecosystem)
-- 10.00% to treasury 100,000,000 (ecosystem insurance)
+One billion NIT tokens will be minted at the genesis and will become available over 10 years. Each year 10% of tokens with a two-year lock and vesting period are circulated.  
 
 
-At genesis year 10% NIT tokens will be distributed with a two year lock as following:
+The first 10-year allocation of NIT Token is as follows:
 
-- Founders 20,000,000 NIT 
-- Individuals and groups 20,000,000 NIT 
-- Liquidity providers 15,000,000 NIT (based on snapshot ending January 3, 2023, at 12:00 am UTC)
-- Core Team 10,000,000 NIT 
-- Developers 10,000,000 NIT
-- DAO 10,000,000 NIT
-- Treasury 10,000,000 NIT 
-- Holders Airdrops 2 500 000,00 NIT  (based on snapshot ending January 3, 2024, at 12:00 am UTC)
-- Telegram and Discord users 2 500 000,00 NIT 
+- Individuals and groups of 200,000,000 NIT; 
+- Core team and future workers - 200,000,000 NIT;
+- Treasury - 200,000,000 NIT; 
+- Liquidity providers - 150,000,000 NIT (according to year snapshot);
+- Founders - 100,000,000 NIT;
+- DAO - 100,000,000 NIT;
+- Airdrops - 25,000,000 NIT (according to year snapshot);
+- Users of Telegram,Discord,Twitter - 25,000,000 NIT.
 
-For the airdrop all you need to do is to have 100 NIT Token on your balance.
+At genesis year 10% NIT tokens will be distributed with a two-year lock as follows:
 
-Contributor’s community pool will retain 65% [650,000,000 NIT] of token supply to distribute on an ongoing basis through grants and other programs aimed to develop and expand NIT ecosystem. 
+- Individuals and groups - 20,000,000 NIT with a 2-year vesting;
+- Core team and future workers - 20,000,000 NIT with a 2-year vesting;
+- Treasury - 20,000,000 NIT; 
+- Liquidity providers - 15,000,000 NIT  (according to year snapshot);
+- Founders - 10,000,000 NIT with a 2-year vesting;
+- DAO - 10,000,000 NIT;
+- Airdrops  - 2.5,000,000 NIT (according to year snapshot);
+- Users of Telegram,Discord,Twitter - 2.5,000,000 NIT.
 
-See table for token allocation schedule: https://docs.google.com/spreadsheets/d/1Puvlw3n1jc9aWaP-QrEcgEkKguzSHvMWoQgB8jLobAE/ 
+The Treasury pool will maintain a minimum of 20% [200,000,000 NIT] of token supply. Every year all unallocated tokens will go to a Treasury pool. To secure our ecosystem financially, to make it strong, and stand the possible crises in the world, we will continuously buy two gold types: physical and digital (Bitcoin). For achieving this goal, we have cooperated with Hinks Mining Company as our trustworthy gold dealer on exclusive terms. You can get more information about Hinks Gold here.
 
-Every half a year from 2024 (start of a profit period) NIT Network will use 10% of its profits to buyback and lock NIT Tokens. We will continue to perform buybacks until 300 000 000 million tokens – 30% of the total supply will be locked.
+To make our token anti-inflationary and more in demand, we need to buy back and lock the NIT Tokens until 500 000 000 million tokens. In such a way, 50% of the overall supply will be locked but the last decision will be made by the supreme DAO governance which will decide the number of tokens to be burned, unlocked, minted, or exchanged. This election will need substantive Voting Power with a maximal supply, but no more than 1 billion NIT tokens.
 
-Annually DAO can decide if a certain amount of tokens to be burned or minted but it will require significant Voting Power with max supply that won't ever exceed 1 billion     NIT tokens.
+See table for the schedule of forward token allocation*
+*The dates of allocation can be changed a bit because of technical practicability.
 
-NIT holders will take part in building a technological,user-friendly ecosystem by voting on different proposals. Every user has its own level of Voting Power due to the amount or equivalent of NIT Tokens. A community-driven NIT DAO opens up a world of infinite possibilities such as ecosystem grants and funding.
 
-DAO supreme governance will begin when more than 50% of tokens will be mined and the system will be decentralized, technologically mature and complianced. Our minimal goal - 50% decentralization by the end of 2027. At now administration of the root contracts is centralized and controlled by a multisig with founders as keyholders. 
+NIT holders will participate in establishing a technological, simple ecosystem by voting on various proposals. Every user owns its level of Voting Power based on the amount or equivalent of NIT Tokens(1 to1). A community-driven NIT DAO unlocks a world of endless opportunities such as ecosystem grants and funding.
 
-This period will provide the NIT community enough time to familiarize itself with the governance system and begin discussions and communications around potential governance proposals. 
+The distribution of more than 20% of tokens, decentralization, technologically maturing, and compliance will give the start to the DAO supreme governance. Our lowest goal is 50% decentralization by the end of 2027. Nowadays the administration of the root contracts is centralized and under the control of a multisig with founders as keyholders and most popular influencers in the blockchain community. 
 
-NIT holders are responsible for ensuring that governance decisions are made in compliance with applicable laws and regulations. Our community will consult legal and regulatory professionals before implementing any specific proposals.
+This period will give the NIT community enough time to get familiar with the system of governance and start debates and discussions about possible governance proposals. 
+
+NIT holders are liable for governance decision-making according to applicable laws and regulations. We will consult legal and regulatory professionals before implementing any particular proposals.
 
 NIT holders will have abilities and ownership of: 
 
-- NIT governance 
-- NIT Treasury & DAO funds
-- nit.eth ENS name 
-- The protocol fee 
+- NIT governance; 
+- NIT Treasury & DAO funds;
+- newit.eth ENS name. 
 
-Initial governance parameters are as follows: 
+Initial DAO supreme governance parameters are the following: 
 
-  50% of NIT total supply to reach quorum
+50% of NIT total tokens are distributed to achieve quorum;
+25% +1 of the quorum is required to vote 'yes' for the proposal to be passed;
+voting period of 14 days;
+3-day timelock execution delay.
 
-  25% +1 of NIT total supply required to vote 'yes' for proposal to pass
+Being an element of the early governance process, NIT holders will bear genesis voting on a proposed NIT Digital Statute which is a set of rules and instructions for the NIT community and elections of the Advisory Board and Security Committee. Vote proposals will be open on September 1, 2026, with voting starting on September 9, 2025. Users will have a right to delegate their right to vote to a community member representing their opinions (call for delegates).
 
-  30 day voting period 
+__DAO dApp__
+The primary NIT DAO interface will be localized at dao.nit.network, where users can log in, create proposals, and vote.
 
-  7 day timelock delay on execution
+__Snapshot__
+Snapshot is a platform for voting outside of the chain that maintains free voting on proposals for holders of tokens. When both the proposals and the votes are stored on IPFS in the form of cryptographically signed messages, Snapshot enables safe and easily contested results.
+NIT’s DAO uses Snapshot to host the proposals and votes which are created by the community.
+Every time a proposal is open at dao.nit.network, it’s automatically duplicated on NIT’s Snapshot space. This allows the DAO to record and store proposals, votes, and results in a safe and decentralized form, and the results are displayed back on dao.nit.network. From the Snapshot space, users will be able to delegate their VP to other members of the community.
+
+__NIT DAO__
+NIT DAO is a secured platform to create and manage the collection of smart contracts which are essential to run a DAO. The NIT DAO backend will be created via our system NIT DAO. As a result, anytime a community passes a proposal in Snapshot, the Security Committee commits it to the Ethereum mainnet in NIT DAO
+ 
+__Advisory Board (AB)__
+It is a group of trusted individuals selected by the community whose function is to hold keys in a multi-sig wallet. The multi-sig is obligated to implement any passed votes with a mandatory action, like implementing a user's proposal or burning tokens.
+It is supervised by the Security Committee, which has the authority to put on hold and annul any action taken by the Advisory Board.
+Every on-chain transaction launched by the Advisory Board has an automated 72-hour delay before its completion, which enables the withdrawal of the transaction by the Security Committee or the Advisory Board.
+
+Security Committee (SC)
+Security Committee guarantees the security of NIT’s smart contract and has the task to supervise the Advisory Board’s work and respond to weakness and bug reports in any of NIT’s contracts.
+It gathers founders and six reliable individuals elected by the community to hold keys in a multi-sig wallet.
+Any time changes need to be made to the main smart contracts, they have to be unquestionably supported by the SC’s multi-sig. A minimum of one-half signatories is required with no opposite votes to make updates to the main smart contracts.
+The SC can pause, resume, or cancel any action authorized by the Advisory Board.
+The proposal to appoint or fire a member of the SC can be initiated by beginning a Governance proposal process on dao.nit.network.
 
 
-We have established an entity called The NIT For People in the USA to legally represent the DAO, e.g. fulfill any tax obligations. The articles of incorporation give token holders the right to appoint and dismiss directors, and to instruct entity to take real-world actions.
+We created an organization called The NIT For People in the USA for lawful representation of the DAO, such as the fulfillment of any tax responsibilities. The articles of incorporation empower token holders to assign and fire directors, as well as, to instruct the organization to take actions in the real world.
 
-__NIT Digital Statute__
+If you want to become an early contributor, you can claim exclusive NIT NFT’s which will allow you to get NIT tokens and exceptional DAO privileges (for example, private channels, airdrops). 
 
-As part of the governance process, NIT holders will hold genesis voting on a proposed NIT Digital Statute which is a set of rules and guidelines for the NIT community on how NIT should be governed. To pass, it’ll need 25% +1 approval and a quorum of 50% of all total tokens. Vote proposals will be open on September 1, 2022 and voting will start 03.01.2027 . Users will be encouraged to delegate their voting power to a community member that represents their views (call for delegates).
-
-__To become an early contributor you can claim a unique NIT NFT which will allow you to receive 1000 NIT and special DAO privileges (private channels,early delegates).__
-
-
-__Contracts__
-- NIT Token: https://etherscan.io/token/0x 
-- Liquidity mining:https://etherscan.io/token/0x 
-- Governance: https://etherscan.io/address/0x
-- Timelock: https://etherscan.io/address/0x 
-
+For the airdrop, you just need to have NIT tokens or HGOLD Tokens staked on your balance. You can get more information about HGOLD here.
+ 
+Contracts:
+NIT Token: 
+Liquidity mining:
+Governance:
+Timelock:
+ 
+ 
 __Legal__
-This document  is an integral part of the General Legal Terms (available by the link: https://nit.network/legal), legal provisions of which (including, but not limited - responsibilities, risks, guarantees) are completely applicable to this document.
+This document constitutes an essential part of the General Legal Terms (accessible by the link: https://nit.network/legal), its legal provisions (containing, but not limited to responsibilities, threats, and guarantees) are fully applicable to this document.
+By reading, downloading, or opening the document you automatically and fully agree to act in compliance with all the provisions of the General Legal Terms (accessible by the link: https://nit.network/legal). Also, in such a way you confirm that we are not responsible for the information given (containing, but not limited to this document, General Legal Terms, the information provided on the website https://nit.network ) and you are not objecting to us (and refuse to do it in the future). The document is furnished solely for information purposes.
+Nothing stated in the following document is an offer of any kind (in particular tender offer for investments), legal demand, or application to purchase or trade any securities inside any jurisdiction of NIT or any other system of the related company. The information given here is not an offer, legal demand, or application of NIT tokens inside any jurisdiction of NIT or any jurisdiction where such offer, requirement, or sale would be against the law. Several allegations and assessments included in this document show projected statements or data. The projected statements are relating to the known and unknown risks and instability, which can be very different from factual developments or results, implied or represented in such statements.
+NIT Token does not represent any shareholding, participation, right, title, or interest in the company, the issuer, its affiliates, or any other company, enterprise, or another business. Additionally, NIT Token will not authorize token holders to any promise of fees, dividends, revenue, profits, or investment returns, and are not planning to establish securities in Singapore or any proper jurisdiction. The ownership of NIT Token does not have rights (express or implied), other than that which may be granted by the NIT Network and/or any other third parties – users of such Tokens.
 
-By reading, downloading or opening this document you automatically and totally agree to comply with all the provisions of the General Legal Terms (available by the link: https://nit.network/legal) and in such a way you confirm that we have no responsibility for the provided information (including, but not limited with this document, General Legal Terms, information placed on the website https://nit.network ) and you have no objections to us (and won’t have it in the future). The document is intended only for the information purposes.
+ Specifically, it is underlined that NIT Token:
 
-Nothing mentioned in the current document is a proposal of any kind (including tender offer for investments), legal request or application about a purchase or sale of any securities in any jurisdiction within NIT or any other system of the related company. The information provided here is not a proposal, legal request or application of NIT tokens in any jurisdiction within NIT or in any jurisdiction where such a proposal, requirement or sale would be illegal. Some allegations and assessments, which are contained in the current document, represent projected statements or information. These projected statements are related to the known and unknown risks and uncertainty, which can appear significantly different from factual developments or results, implied or expressed in such projected statements.
-NIT Token does not in any way represent any shareholding, participation, right, title, or interest in the company, the issuer, its affiliates, or any other company, enterprise or undertaking, nor will NIT Token entitle token holders to any promise of fees, dividends, revenue, profits or investment returns, and are not intended to constitute securities in Singapore or any relevant jurisdiction. Ownership of NIT Token carries no rights, express or implied, other than that which may be afforded by the NIT Network and/or any other third parties who may use such Tokens.
+1. Cannot be refunded and exchanged for cash (or any other virtual currency of the same value) or any payment obligation by the company, the issuer, or any affiliate;
 
-In particular, it is highlighted that NIT Token:
+2.Does not represent or give the holder of the token any right of any form concerning the company, the issuer (or any of its affiliates), or its revenues or assets, including without restriction any right to get forthcoming dividends, revenue, shares, ownership right or stake, share or security, any right to vote, distribute, redeem, liquidate, propriety (including intellectual property or license rights in all forms), or another financial or legal rights or equivalent rights, or intellectual property rights or any other form of taking part in or relating to the NIT Network, the company, the issuer and/or their providers of service;
 
-1. is non-refundable and cannot be exchanged for cash (or its equivalent value in any other virtual currency) or any payment obligation by the company, the issuer or any affiliate;
-2. does not represent or confer on the token holder any right of any form with respect to the company, the issuer (or any of its affiliates), or its revenues or assets, including without limitation any right to receive future dividends, revenue, shares, ownership right or stake, share or security, any voting, distribution, redemption, liquidation, proprietary (including all forms of intellectual property or licence rights), or other financial or legal rights or equivalent rights, or intellectual property rights or any other form of participation in or relating to the NIT Network, the company, the issuer and/or their service providers;
-3. is not intended to represent any rights under a contract for differences or under any other contract the purpose or pretended purpose of which is to secure a profit or avoid a loss;
-4. is not intended to be a representation of money (including electronic money), security, commodity, bond, debt instrument or any other kind of financial instrument or investment;
-5. is not a loan to the company, the issuer or any of its affiliates, is not intended to represent a debt owed by the company , the issuer or any of its affiliates, and there is no expectation of profit; 
-6. and does not provide the token holder with any ownership or other interest in the company, the issuer or any of its affiliates.
+3. Is not intended to represent any rights according to the agreement for distinctions or under any other agreement the intent or pretended intent to secure a profit or prevent a loss;
+
+4. Is not aimed to be a money representation (including digital money), security, commodity, bond, debt instrument, or any other type of economic instrument or financing;
+
+5. Is not a credit given to the company, the issuer, or any of its affiliates, and is not aimed to represent a loan taken by them, and there is no expected profit;
+
+6. Does not give the token holder any possession or other advantage in the company, the issuer, or any of its affiliates.
 
 
 ## Team
 
 ![NIT](https://github.com/nitnetwork/NIT-Documentation/blob/main/img/NIT%20-%20team.png)
-
 
 
 
