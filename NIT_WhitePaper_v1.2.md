@@ -393,20 +393,16 @@ read();
 ## Economy
 
 __Overview__
-__NIT is an ERC-20 token that is a key to NIT Protocol features. The native utility token of the NIT Network (NIT Token) is used to pay fees for operations (transactions) in the NIT ecosystem.__
-NIT Token is divided up till 0.00000001 and will be issued as erc-20 standard compliant tokens on the Ethereum blockchain, in the next stages it may be driven by our own unique technology.
-We need to provide the economic incentives to encourage participants to contribute and maintain the ecosystem. Computational,economic and human resources are required to maintain the NIT Network, thus providers of these resources would be rewarded with NIT tokens (i.e. "economic mining"). 
+ 
+NIT is an ERC-20 token which is a key to NIT Protocol features. The original utility token of the NIT Network  - NIT Token, is used to pay compensation for operations (transactions) in the NIT ecosystem. NIT Token is separated until 0.00000001 and will be issued as ERC-20 basic compliant tokens on the Ethereum blockchain. Moreover, in the next stages, it may be driven by our exclusive technology.
+We have to give the economic stimulus to increase parties’ interest to help and maintain the ecosystem. Maintaining the NIT Network requires computational, economic, and human resources. Providers of these resources would be compensated with NIT tokens ("economic mining"). 
 
-NIT aims to use a potential of equilibrium model for circulating supply. 
+NIT is intended to use a potential of equilibrium model for circulating supply. 
 
-In near future staking validators and delegators will secure the network by staking their NIT in smart contracts, which are used to support the network(achieve consensus and other contributions).
+In the nearest future staking validators and delegators will secure the network by staking their NIT in smart contracts, used for network support (reach agreement and other contributions).
 
-__For each transaction in a system equivalent 1$ NIT fee is paid which goes to next pools:__
+For every single transaction within a system (deploying of DAO, smart contracts, NFT certificates), a $2 fee will be paid to DAO Treasury. Thereafter the amount of the fee will be set by NIT DAO.
 
-- Contributors community  65 %
-- Miners                  15 %
-- DAO                     10 %
-- Treasury                10 %
 
 
  __Usage__
