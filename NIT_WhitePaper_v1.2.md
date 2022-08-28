@@ -352,7 +352,7 @@ Details:
 
 | Description   | Action |
 | ------------- |:------------------:|
-| The user chooses the blockchain to write to. Bitcoin or Ethereum | [when selecting a blockchain, the system changes functionality towards the selected ecosystem] |
+| The user chooses the blockchain to read. Bitcoin or Ethereum | [when selecting a blockchain, the system changes functionality towards the selected ecosystem] |
 | Blockchain Navigation. Sequential | [explorer moves between blocks sequentially when clicked] |
 | Keyword search filter (in records)Keyword search filter (in records) | [when explorer is pressed, filter blocks by keyword. reset only when filter is canceled] |
 | Data block. Contains transaction ID. If the record is made through B.TR/machine\ then it has another set of data such as : name, wallet, tag/keyword, key/signature   | [when you click on the transaction ID/hash, it is copied to the clipboard] |
