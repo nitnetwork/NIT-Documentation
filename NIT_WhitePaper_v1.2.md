@@ -60,7 +60,7 @@ Our most important tasks include creating standards, libraries, interfaces, and 
 This will help us integrate blockchain into the real world.
 
 
-__NIT SOLUTIONS__ - 
+__NIT Protocol__ - 
 is a core frameworks for data search, communication and execution in web3 systems
 
 __DAO Builder__- creating an autonomous organization with the programmable digital statute, with a decision-making system and algorithmic crypto-economy on blockchains: Bitcoin, Ethereum, NEAR (all leading and reliable blockchains in the future).
