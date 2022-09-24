@@ -52,7 +52,7 @@ __Table of Contents__
 
 ## Intro
 
-__NIT__ is an open-source community which creates and maintains basic blockchain interaction tools such as DAO and smarts contract builder. 
+__NIT__ is an open-source community which creates and maintains basic blockchain interaction tools such as DAO and smart contracts builder. 
 
 Firstly, these will be tools for writing and reading data to the Bitcoin blockchain and DAO constructor. Secondly, these tools will be joined with all major blockchains. It will be the choice of users which technology suits them.
 
@@ -98,11 +98,11 @@ Crypto changes the nature of money in a historical way, because unlike gold or p
 
 __Overview__
 
-Our target is to maximize the application of blockchain technology. In this connection, all leading and trustworthy blockchains have been chosen to give users a right to choose. Currently, we are examining the primary 4 blockchains and have determined a plan to implement our DAO model and data recording (certification) step by step in each particular protocol.
+Our target is to maximize the adoption of blockchain technology. All leading blockchains have been chosen to give users a right to choose. Currently, we are examining the primary 4 blockchains and have determined a plan to implement our DAO model and data recording (certification) step by step in each particular protocol.
 
 Let’s begin with the first one - __Bitcoin__.
 
-Further we have the plan to consolidate the solution into all top and progressive blockchain technologies:
+Further we have the plan to consolidate the solution into all progressive blockchain technologies:
 - Ethereum;
 - Polygon;
 - Near.
