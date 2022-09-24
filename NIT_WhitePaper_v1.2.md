@@ -32,7 +32,7 @@ We deal with the next challenges:
 - centralized management of the companies;
 - few information about blockchain use cases in a real life;
 
-We introduce Truth Machine - a simple tool for recording data into blockchains and a NITDAO - smart contracts builder with the programmable digital statute. Also we work on bringing blockchain for mass adoption by researching, structuring information and guidelines about web 3.0 technologies.
+We introduce Truth Machine - a simple tool for recording data into blockchains and a NITDAO - smart contracts builder with the programmable digital statute. Also we work on bringing blockchain to mass adoption by researching ang structuring profile information, creating guidelines for web 3.0 technologies.
 
 __Our goal is to make new technologies accessible, simple to use, and clear__
 
@@ -54,7 +54,7 @@ __Table of Contents__
 
 __NIT__ is an open-source community which creates and maintains basic blockchain interaction tools such as Truth Machine and DAO Builder. 
 
-Firstly, these will be tools for writing and reading data to the Bitcoin blockchain and DAO constructor. Secondly, these tools will be joined with all major blockchains. It will be the choice of users which technology suits them.
+First, we will create tools for recording data into Bitcoin and Ethereum blockchains, after this - DAO constructor. We will add all major blockchains. It will be the choice of users which technology suits them.
 
 Our most important tasks include creating standards, libraries, interfaces, and guidelines for decentralized systems.
 
