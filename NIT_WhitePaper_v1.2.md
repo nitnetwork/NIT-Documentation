@@ -65,18 +65,18 @@ This will help us integrate blockchain into the real world.
 __NIT Protocol__ - 
 is a core frameworks for data search, communication and execution in web3 systems
 
-__DAO Builder__- creating an autonomous organization with the programmable digital statute, with a decision-making system and algorithmic crypto-economy on blockchains: Bitcoin, Ethereum, NEAR (all leading and reliable blockchains in the future).
+__DAO Builder__- a software to create an autonomous decentralized organizations with the programmable digital statute, with a decision-making system and algorithmic crypto-economy on blockchains: Bitcoin, Ethereum, NEAR (and all leading and reliable blockchains in the future).
 
-__Smart Contract Builder__ - creating contracts with different parameters and conditions, appointing participants, arbitrators, multiple signatures, and verification in blockchains.
+__Smart Contract Builder__ - a software to create electronic agreements between partiens in the form of programs - smart contracts with different parameters and conditions, appointing participants, arbitrators, multiple signatures, and verifications in blockchains.
 
-__Truth Machine__ - writing, reading, encryption, and certification of Bitcoin and Ethereum blockchain.
+__Truth Machine__ - a technology to write, read, encrypt and certificate information within blockchain.
 
 Also, __NIT__ is:
 - Center of Blockchain Technology Research and Development;
-- Open library of organized information, directions, and methods;
-- Scholarly programs on the technology of blockchain.
+- Open Source library of structured information, guidelines, and methods;
+- Learning programs about blockchain technology .
 
-Knowledge of the technology will be accessible to everyone, and a blockchain-based and incentive-based __NIT Learning System__ will make studying easier. 
+Blockchain will be accessible to everyone and web 3.0 __NIT Learning System__ will make studying easier. 
 
 
 ## Market overview and NfX
