@@ -52,7 +52,7 @@ __Table of Contents__
 
 ## Intro
 
-__NIT__ is an open-source community which creates and maintains basic blockchain interaction tools such as DAO and smart contracts builder. 
+__NIT__ is an open-source community which creates and maintains basic blockchain interaction tools such as Truth Machine and DAO Builder. 
 
 Firstly, these will be tools for writing and reading data to the Bitcoin blockchain and DAO constructor. Secondly, these tools will be joined with all major blockchains. It will be the choice of users which technology suits them.
 
