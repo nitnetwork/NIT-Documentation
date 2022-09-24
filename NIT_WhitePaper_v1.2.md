@@ -13,11 +13,11 @@ __VISION__ 👾
 Life progress has directed us to the discovery of a new decentralized world of technologies.
 
 The world will be fully adapted to blockchain technology.
-The fundamentals of this progress are Blockchain Bitcoin and Ethereum.
+The fundamentals of this progress are Bitcoin and Ethereum.
 They will be often used by Innovative and New Decentralized Companies.
 
-New blockchain and WEB3 technologies gave a start to such new Internet concepts:
-- Partiescooperate directly, without the participation of a reliable intermediary;
+New  WEB 3.0 technologies gave a start to such new Internet concepts:
+- Parties cooperate directly, without the participation of a reliable intermediary;
 - Users possess much more control over their personal information;
 - Anyone can use the ubiquitousness Internet anywhere, because of its ubiquitousness;
 - The semantic web made user search more efficient.
@@ -25,15 +25,14 @@ New blockchain and WEB3 technologies gave a start to such new Internet concepts:
 The first blockchain was introduced 12 years ago. Nowadays, bitcoin credibility can be calculated at $1 trillion and 100 million of its users. The trust to the bitcoin blockchain is a result of the safe, protected, fast, and beneficial technology for the economy and trading value demonstrated during all 13 years. 
 
 
-We deal with the next difficulties:
+We deal with the next challenges:
 
-- the lack of Bitcoin ecosystem;
-- the lack of dependable, uncomplicated, and clear tools to execute essential activities of cooperation with blockchain (such as write, read, smart contract, DAO). Only Ethereum blockchain possesses projects improving such actions;
-- centralized management of the company;
-- restricted sources of trustworthy standards, methods, and rules regarding the use and implementation of blockchain technology in the real world.
+- lack of Bitcoin ecosystem for users mass adoption;
+- lack of trusted, user friendly tools to execute essential blockchain activities;
+- centralized management of the companies;
+- few information about blockchain use cases in a real life;
 
-We propose solving as a simple and easy-to-use DAO builder with the programmable algorithmic  statute and smart contracts, tools for writing and reading data to the blockchain, and libraries of standards, techniques, and guidance for all fundamental elements of the blockchain technology.
-
+We introduce Truth Machine - a simple tool for recording data into blockchains and a NITDAO - smart contracts builder with the programmable digital statute. Also we work on bringing blockchain for mass adoption by researching, structuring information and guidelines about web 3.0 technologies.
 
 __Our goal is to make new technologies accessible, simple to use, and clear__
 
