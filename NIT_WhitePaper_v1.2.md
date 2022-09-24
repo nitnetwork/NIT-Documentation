@@ -17,9 +17,9 @@ The fundamentals of this progress are Bitcoin and Ethereum.
 They will be often used by Innovative and New Decentralized Companies.
 
 New  WEB 3.0 technologies gave a start to such new Internet concepts:
-- Parties cooperate directly, without the participation of a reliable intermediary;
+- Parties cooperate directly without intermediaries;
 - Users possess much more control over their personal information;
-- Anyone can use the ubiquitousness Internet anywhere, because of its ubiquitousness;
+- Anyone can use Internet anywhere, because of its ubiquitousness;
 - The semantic web made user search more efficient.
 
 The first blockchain was introduced 12 years ago. Nowadays, bitcoin credibility can be calculated at $1 trillion and 100 million of its users. The trust to the bitcoin blockchain is a result of the safe, protected, fast, and beneficial technology for the economy and trading value demonstrated during all 13 years. 
