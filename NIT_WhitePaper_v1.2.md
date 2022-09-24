@@ -285,7 +285,7 @@ The function module has 3 major tasks:
 3. Verification (in progress).
 
   
- :key: __WRITE__
+ :key: __WRITE__ 
 
 Working with __tr.m NIT__:
 
@@ -412,7 +412,6 @@ __The Usage Of The NIT Token__:
 3. Trading: NIT Token can be exchanged for other types of cryptocurrencies on different trades;
 4. Loans and transfers: NIT can be used as collateral for loans on particular platforms;
 5. Staking: NIT can be staked creating the opportunity for holders to get passive earnings;
-6. NIT token will also be used in the Hinks Gold ecosystem, read more about it. 
 
 __Allocation__
 
@@ -441,7 +440,7 @@ At genesis year 10% NIT tokens will be distributed with a two-year lock as follo
 - Airdrops  - 2.5,000,000 NIT (according to year snapshot);
 - Users of Telegram,Discord,Twitter - 2.5,000,000 NIT.
 
-The Treasury pool will maintain a minimum of 20% [200,000,000 NIT] of token supply. Every year all unallocated tokens will go to a Treasury pool. To secure our ecosystem financially, to make it strong, and stand the possible crises in the world, we will continuously buy two gold types: physical and digital (Bitcoin). For achieving this goal, we have cooperated with Hinks Mining Company as our trustworthy gold dealer on exclusive terms. You can get more information about Hinks Gold here.
+The Treasury pool will maintain a minimum of 20% [200,000,000 NIT] of token supply. Every year all unallocated tokens will go to a Treasury pool. To secure our ecosystem financially, to make it strong, and stand the possible crises in the world, we will continuously buy two gold types: physical and digital (Bitcoin). 
 
 To make our token anti-inflationary and more in demand, we need to buy back and lock the NIT Tokens until 500 000 000 million tokens. In such a way, 50% of the overall supply will be locked but the last decision will be made by the supreme DAO governance which will decide the number of tokens to be burned, unlocked, minted, or exchanged. This election will need substantive Voting Power with a maximal supply, but no more than 1 billion NIT tokens.
 
@@ -500,13 +499,7 @@ We created an organization called The NIT For People in the USA for lawful repre
 
 If you want to become an early contributor, you can claim exclusive NIT NFT’s which will allow you to get NIT tokens and exceptional DAO privileges (for example, private channels, airdrops). 
 
-For the airdrop, you just need to have NIT tokens or HGOLD Tokens staked on your balance. You can get more information about HGOLD here.
- 
-Contracts:
-NIT Token: 
-Liquidity mining:
-Governance:
-Timelock:
+For the airdrop, you just need to have NIT tokens staked on your balance.
  
  
 __Legal__
