@@ -444,7 +444,7 @@ The Treasury pool will maintain a minimum of 20% [200,000,000 NIT] of token supp
 
 To make our token anti-inflationary and more in demand, we need to buy back and lock the NIT Tokens until 500 000 000 million tokens. In such a way, 50% of the overall supply will be locked but the last decision will be made by the supreme DAO governance which will decide the number of tokens to be burned, unlocked, minted, or exchanged. This election will need substantive Voting Power with a maximal supply, but no more than 1 billion NIT tokens.
 
-See table for the schedule of forward token allocation*
+See table for the schedule of forward token allocation https://docs.google.com/spreadsheets/d/1mBCs3_CudKK6SCXb7Iyx8eyY91WIZBqd6PFWxONK9Vg/*
 *The dates of allocation can be changed a bit because of technical practicability.
 
 
