@@ -438,7 +438,7 @@ At genesis year 10% NIT tokens will be distributed with a two-year lock as follo
 - Founders - 10,000,000 NIT with a 2-year vesting;
 - DAO - 10,000,000 NIT;
 - Airdrops  - 2.5,000,000 NIT (according to year snapshot);
-- Users of Telegram,Discord,Twitter - 2.5,000,000 NIT.
+- Users of Telegram,Discord,Twitter - 2,5 000,000 NIT.
 
 The Treasury pool will maintain a minimum of 20% [200,000,000 NIT] of token supply. Every year all unallocated tokens will go to a Treasury pool. To secure our ecosystem financially, to make it strong, and stand the possible crises in the world, we will continuously buy two gold types: physical and digital (Bitcoin). 
 
