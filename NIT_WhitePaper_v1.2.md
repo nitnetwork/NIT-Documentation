@@ -13,7 +13,7 @@ __VISION__ 👾
 Life progress has directed us to the discovery of a new decentralized world of technologies.
 
 The world will be fully adapted to blockchain technology.
-The fundamentals of this progress are Bitcoin and Ethereum.
+The fundamentals of this progress are Bitcoin.
 They will be often used by Innovative and New Decentralized Companies.
 
 New  WEB 3.0 technologies gave a start to such new Internet concepts:
@@ -54,7 +54,7 @@ __Table of Contents__
 
 __NIT__ is an open-source community which creates and maintains basic blockchain interaction tools such as Truth Machine and DAO Builder. 
 
-First, we will create tools for recording data into Bitcoin and Ethereum blockchains, next - DAO constructor. We will add all major blockchains. It will be the choice of users which technology suits them.
+First, we will create tools for recording data into Bitcoin, next - DAO constructor. We will add all major blockchains. It will be the choice of users which technology suits them.
 
 Our most important tasks include creating standards, libraries, interfaces, and guidelines for decentralized systems.
 
@@ -64,7 +64,7 @@ This will help us integrate blockchain into the real world.
 __NIT Protocol__ - 
 is a core frameworks for data search, communication and execution in web3 systems
 
-__DAO Builder__- a software to create an autonomous decentralized organizations with the programmable digital statute, with a decision-making system and algorithmic crypto-economy on blockchains: Bitcoin, Ethereum, NEAR (and all leading and reliable blockchains in the future).
+__DAO Builder__- a software to create an autonomous decentralized organizations with the programmable digital statute, with a decision-making system and algorithmic crypto-economy on Bitcoin blockchain.
 
 __Smart Contract Builder__ - a software to create electronic agreements between partiens in the form of programs - smart contracts with different parameters and conditions, appointing participants, arbitrators, multiple signatures, and verifications in blockchains.
 
@@ -98,14 +98,7 @@ Crypto changes the nature of money in a historical way, because unlike gold or p
 
 __Overview__
 
-Our target is to maximize the adoption of blockchain technology. All leading blockchains have been chosen to give users a right to choose. Currently, we are examining the primary 4 blockchains and have determined a plan to implement our DAO model and data recording (certification) step by step in each particular protocol.
-
-Let’s begin with the first one - __Bitcoin__.
-
-Further we have the plan to consolidate the solution into all progressive blockchain technologies:
-- Ethereum;
-- Polygon;
-- Near.
+__Bitcoin__.
 
 Bitcoin is the first blockchain, it is the most trusted and reliable. Currently, the cryptocurrency community is considering and maintaining new technologies in other blockchains mostly because they have more enhanced ecosystems, communities, guides, and samples. This makes possible to engage more developers, enthusiasts, and investors.
 
@@ -119,7 +112,7 @@ In addition, we will take a detailed look at the base modules of the NIT protoco
 
 A DAO is a self-organizing community with decentralized and automatically executable administration and voting, financial administration, participation, earnings, and workflow organization functions via blockchain.
 
-A Decentralized Autonomous Organization (DAO) is a new organizational form. It allows resources to be coordinated through decentralized and provably neutral instruments. The DAO is not a complete replacement for corporations. Nevertheless, it gives an alternative for a lot of organization types that can profit from a programmable model of administration and decentralization: corporations, cooperatives, religious organizations, schools, NGOs, government agencies and departments, and local communities. [V. Buterin, 2020](6)
+A Decentralized Autonomous Organization (DAO) is a new organizational form. It allows resources to be coordinated through decentralized and provably neutral instruments. The DAO is not a complete replacement for corporations. Nevertheless, it gives an alternative for a lot of organization types that can profit from a programmable model of administration and decentralization: corporations, cooperatives, religious organizations, schools, NGOs, government agencies and departments, and local communities. [V. B 2020](6)
 
 The blockchain properties arrange unique abilities to establish
 and manage decentralized organizations, along with the records immutability, clarity, and speed of transactions.
